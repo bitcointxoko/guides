@@ -26,7 +26,7 @@ Voilà! Now you have the power of Lightning at your fingertips. Do you feel like
 
 ### Zeus
 Zeus is an awesome open-source app that allows you to connect your own node to your mobile device. It supports all the major Lightning node implementations, such as LND, CLN and Eclair, as well as connections over both Tor and clearnet. Recently they have also announced their own LSP (Lightning Service Provider), you can join the waitlist [here](https://olympusln.com/). 
-### What do I need?
+#### What do I need?
 - Android or iOS phone
 - Another device on which you can access your LNbits wallet (for displaying the QR code to scan)
 - Access to your LNbits wallet
