@@ -64,7 +64,8 @@ puedas usar tu Lightning Address para recibir zaps.
 Las demás opciones avanzadas son opcionales, puedes configurarlas si quieres o dejarlas en
 blanco.
 
-[Al final debería verse algo así.]
+![Al final debería verse algo así.](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnaddress-config.jpeg)
+Al final debería verse algo así.
 
 Cuando hayas comprobado que todo es correcto, sigue adelante y haz clic en *Crear enlace de
 pago*.
