@@ -1,10 +1,13 @@
 ### What is a BoltCard?
 A BoltCard is a NFC card with a LNURLw record. You can top it up with sats and use it as a debit card to pay merchants and other users who support this technology. 
 
-![This is how it works behind the scenes. ](https://boltcard.org/img/Boltcard-flow.jpg)This is how it works behind the scenes. 
+![This is how it works behind the scenes. ](https://boltcard.org/img/Boltcard-flow.jpg)  
+This is how it works behind the scenes. 
+
 ### What do I need?
 - A NTAG424 DNA NFC card
-	- Here are some vendors who sell them online, some of these offer customisable designs:  
+	- Here are some vendors who sell them online, some of these offer customisable designs:
+ 	- [Bitcoin Txoko](https://shop.bitcointxoko.com/)
 	- [NFC cards](https://nfc.cards/en/white-cards/46-nfc-card-ntag424-dna.html)
 	- [NFC-tag-shop](https://www.nfc-tag-shop.de/en/NFC-Card-PVC-85-6-x-54-mm-NTAG-424-DNA-416-Byte-white/69079)
 	- [Lasereyes](https://lasereyes.cards/buy-now/)
@@ -22,7 +25,7 @@ On your phone with NFC capabilities, go to your LNbits wallet link -> Extensions
 - Press the NFC button then bring your NFC card up to your phone to import the UID from your card. 
 - Click *create card*. 
 ### 3. Write the NFC record to the card
-- For this step you will need an app to write the NFC record to your card. I used the official [BoltCard] app. 
+- For this step you will need an app to write the NFC record to your card. I used the official BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873)) app. 
 - On LNbits, show *Card Key Credentials* and then scan the QR code from the BoltCard app or click *Create Link* and paste the auth URL into the BoltCard app.
 - On the BoltCard app, click *Write Card Now* and bring the NFC card towards the phone and hold it there until the NFC record has been written onto the card. 
 
