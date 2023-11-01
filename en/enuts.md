@@ -72,4 +72,4 @@ eNuts integrates Nostr to allow you to send ecash to your contact list.
 
 To use this feature, go to `Contacts` and paste your nostr public key. eNuts then pulls your contacts list from relays. Unfortunately the search function has not been implemented yet, which can make finding the correct contact a bit cumbersome if you have many contacts. 
 
-The recipient should get a Nostr kind 4 direct message containing the cashu token, which they can redeem in their wallet. 
+The recipient should get a Nostr kind 4 direct message containing the cashu token which they can redeem in their wallet. 
