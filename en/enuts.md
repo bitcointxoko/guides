@@ -12,7 +12,7 @@ Head to the [eNuts](https://www.enuts.cash/) website and install the application
 In order to interact with ecash, you first need to have access to a **mint**, where your ecash tokens are minted and redeemed. The mint is the custodian of your Bitcoin, but does not know who you are, who you are transacting with nor how much funds you have. You can use the Txoko mint for testing. 
 
 1. Head to the [Txoko Mint](https://bitcointxoko.com/cashu/mint/oKBX3FcDdwsbHPL9w4GtsA). Copy the mint URL. 
-2. In eNuts, go to Options > Mint management and press the + button. Paste the mint URL you have copied from the previous step. 
+2. In eNuts, go to `Options` > `Mint management` and press the `+` button. Paste the mint URL you have copied from the previous step. 
 3. You can add additional mints. For example, the [cashme](https://legend.lnbits.com/cashu/mint/4gr9Xcmz3XEkUNwiBiQGoC) mint on LNbits. 
 #### Minting tokens
 Once you have added the mint, eNuts will automatically ask you if you want to mint new cashu tokens from that mint. 
