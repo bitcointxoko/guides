@@ -16,6 +16,8 @@ As we can see, Cashu sacrifices trustlessness and decentralisation for privacy. 
 
 In contrast, Cashu mints can act as custodians that do not know who their users are, how much funds they have, nor with whom they are transacting. The only data record the mint has is a list of spent secrets that cannot be reused, with no way to associate them with users. 
 
+![https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/onchain-ark-lightning-ecash.jpeg]
+
 Some use cases for Cashu include vouchers which are already centralised and custodial; pay-per-resource usage such as APIs, nostr relays and mixnets; integrated systems replacing the account and balance model; and exchange/mixing services to unlink deposits and withdrawals. 
 ### History
 Ecash was first conceived by David Chaum in 1982 as an electronic value transmission protocol using blind signatures. Cashu is an Ecash implementation using David Wagner's [variant](https://cypherpunks.venona.com/date/1996/03/msg01848.html) of Chaumian blinding from 1996, created by nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg. 
@@ -41,19 +43,35 @@ In Cashu, tokens are denominated by powers of 2. For example 1, 2, 4, 8, 16, 32,
 The point of using denominations is to increase the anonymity set amongst the users and make it even harder for mints to associate transactions with user identities. 
 ### How does it work? Explained Like I'm 5
 
-![image]()
+![mint-request](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/mint-request.jpeg)
 
 User Alice wants to mint new Cashu tokens. So she goes to the mint, Bob, and says, "Hey! I want to mint new Cashu tokens."
 
+![mint-request-response](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/mint-request-response.jpeg)
+
 Bob responds saying, "OK, pay me and send me a blinded secret." Blinded secret means Alice knows the secret, but Bob cannot see it. 
 
-Alice generates a secret and then blinds it so that Bob does not know what the secret is. She pays Bob and sends him her proof of payment and blinded secret. 
+![blinding](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/blinding.jpeg)
+
+Alice generates a secret and then blinds it so that Bob does not know what the secret is. 
+
+![mint](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/mint.jpeg)
+
+She pays Bob and sends him her proof of payment and blinded secret. 
+
+![signing](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/signing.jpeg)
+
+![mint-response](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/mint-response.jpeg)
 
 When Bob is satisfied that he has been paid, he signs Alice's blinded secret and gives her back the signed blinded secret. Since Bob signed it, in the future he can be sure that the token is valid. 
+
+![unblinding](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/unblinding.jpeg)
 
 Alice wants to pay Carol. She sends Carol her secret, along with a key to unblind the signed blinded secret. 
 
 Carol wants to redeem her token. So she goes to the mint, Bob, and shows him the secret and the unblinded key that Alice gave her. 
+
+![verification](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/verification.jpeg)
 
 Bob has never seen the secret before and has no idea it was Alice who generated it, since Alice blinded it before sending it to him. But he can verify that he signed it earlier, so he can treat it as a valid spend of the token. He now signs a new token for Carol, or gives her sats back, and adds the secret to a list of spent secrets. If someone tries to redeem with the same secret again in the future, Bob will reject them because it is a double spend. 
 #### How does the mint know what amount of sats to give Carol?
