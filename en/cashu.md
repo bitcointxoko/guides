@@ -72,6 +72,9 @@ She wants to send 9 sats to Carol. So she goes to the mint and tells Bob to spli
 What happens when Alice wants to pay David, who does not trust Bob's mint but knows Erin and uses Erin's mint?  
 
 Alice redeems her tokens at Bob's mint, instructing Bob to melt the tokens or convert them back to Lightning sats. Bob's mint then sends a Lightning transaction to Erin's mint. Erin's mint then mints new tokens with David with the Lightning sats she has just received from Bob's mint. 
+
+![lightning-mints](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/lightning-mints.jpeg)
+
 ### What's next for Cashu?
 #### Programmable ecash
 We can attach spending conditions to ecash, which are enforced by the mint. This can unlock powerful smart contracts without hitting the base chain nor the Lightning network, which can enable public, offline and high-frequency payments. 
