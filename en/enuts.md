@@ -4,7 +4,7 @@
 [eNuts](https://www.enuts.cash/) is an excellent mobile wallet client for cashu, available on both Android and iOS (TestFlight). It supports multiple mints as well as sending over nostr. 
 
 ⚠️ eNuts and Cashu are still in beta. Loss of funds is possible. Read about the risks when you install the app. Test with small amounts you are comfortable with losing. 
-### Try it out
+### Try it
 We will walk through how to interact with a mint, receiving and sending ecash, backups, cashing out to Lightning and swapping between mints, at the end we will test out the nostr contacts functionality. 
 #### Install
 Head to the [eNuts](https://www.enuts.cash/) website and install the application for your operating system. 
@@ -68,7 +68,7 @@ Alternatively, you can back up each of your mints individually.
 - To do this, go to `Options` > `Mint management` and select the mint you want to back up. Go to `Backup funds`, copy the token and save it in a safe place. 
 
 To restore, simply copy the backup token and open the eNuts app. The app should read your clipboard and ask if you want to restore the token. 
-### Nostr
+#### Nostr
 eNuts integrates Nostr to allow you to send ecash to your contact list. 
 
 To use this feature, go to `Contacts` and paste your nostr public key. eNuts then pulls your contacts list from relays. Unfortunately the search function has not been implemented yet, which can make finding the correct contact a bit cumbersome if you have many contacts. 
