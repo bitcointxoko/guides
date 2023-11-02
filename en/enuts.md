@@ -57,7 +57,7 @@ When you want to convert your cashu sats back to Lightning sats, you can cash ou
 
 The mint redeems the cashu tokens and pays the Lightning invoice. 
 #### Backups
-Backing up cashu tokens is probably different to the process you might be used to for backing up Bitcoin and Lightning wallets. Since the funds are represented by tokens which are just blobs of data, you are just backing up these pieces of data when you back up cashu tokens. This also means that your backups will change every time you make a transaction. Different wallet clients have implemented backups differently and will only work with the same wallet that has created the backup. 
+Backing up cashu tokens is probably different to the process you might be used to for backing up Bitcoin and Lightning wallets. Since the funds are represented by tokens which are just blobs of data, you are just backing up these pieces of data when you back up cashu tokens. This also means that your backups are invalidated every time you make a transaction. Different wallet clients have implemented backups differently and will only work with the same wallet that has created the backup. 
 
 eNuts creates a cashu token with all your funds in it and which mint they belong to. 
 
