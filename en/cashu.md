@@ -38,7 +38,7 @@ An analogy is the denomination of bills in fiat. For example, in euro there are 
 
 In Cashu, tokens are denominated by powers of 2. For example 1, 2, 4, 8, 16, 32, 64, 128 sats and so on...
 
-The point of using denominations is to increase the anonymity set amongst the users. 
+The point of using denominations is to increase the anonymity set amongst the users and make it even harder for mints to associate transactions with user identities. 
 ### How does it work? Explained Like I'm 5
 
 ![image]()
