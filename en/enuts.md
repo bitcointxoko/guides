@@ -13,7 +13,8 @@ In order to interact with ecash, you first need to have access to a **mint**, wh
 
 1. Head to the [Txoko Mint](https://bitcointxoko.com/cashu/mint/oKBX3FcDdwsbHPL9w4GtsA). Copy the mint URL. 
 2. In eNuts, go to `Options` > `Mint management` and press the `+` button. Paste the mint URL you have copied from the previous step. 
-3. You can add additional mints. You can find public mints at [MintIndex](https://mintindex.gandlaf.com/). Note that some mints will reserve a certain amount of sats to pay for routing fees, meaning that you cannot withdraw all of your sats.
+
+💡 You can add additional mints. Some public mints can be found at [MintIndex](https://mintindex.gandlaf.com/). Note that some mints will reserve a certain amount of sats to pay for routing fees, meaning that you cannot withdraw all of your sats.
 #### Minting tokens
 Once you have added the mint, eNuts will automatically ask you if you want to mint new cashu tokens from that mint. 
 
