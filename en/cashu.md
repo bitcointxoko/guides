@@ -16,7 +16,7 @@ As we can see, Cashu sacrifices trustlessness and decentralisation for privacy. 
 
 In contrast, Cashu mints can act as custodians that do not know who their users are, how much funds they have, nor with whom they are transacting. The only data record the mint has is a list of spent secrets that cannot be reused, with no way to associate them with users. 
 
-![https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/onchain-ark-lightning-ecash.jpeg]
+![](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/onchain-ark-lightning-ecash.jpeg)
 
 Some use cases for Cashu include vouchers which are already centralised and custodial; pay-per-resource usage such as APIs, nostr relays and mixnets; integrated systems replacing the account and balance model; and exchange/mixing services to unlink deposits and withdrawals. 
 ### History
