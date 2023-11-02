@@ -24,7 +24,7 @@ To help us understand how Cashu works, we will cover some essential terminology 
 #### Mint
 The Cashu mint is the custodian of user funds. Its job is to mint and burn tokens and prevent double spending. 
 
-The Cashu mint sits on top of a Lightning node, so it can send and receive Lightning payments. This includes swapping with other mints. 
+The Cashu mint sits on top of a Lightning node, so it can send and receive Lightning payments. This includes swapping with other mints. However, you can still transact with ecash tokens even if the Lightning node is offline. 
 
 The mint does not know who the user is, how much funds they have, nor with whom they are transacting with. 
 
