@@ -91,7 +91,7 @@ What happens when Alice wants to pay David, who does not trust Bob's mint but kn
 
 Alice redeems her tokens at Bob's mint, instructing Bob to melt the tokens or convert them back to Lightning sats. Bob's mint then sends a Lightning transaction to Erin's mint. Erin's mint then mints new tokens with David with the Lightning sats she has just received from Bob's mint. 
 
-![lightning-mints](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/lightning-mints.jpeg)
+![lightning-mints](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/cashu/lightning.jpeg)
 
 ### What's next for Cashu?
 #### Programmable ecash
