@@ -9,7 +9,7 @@ We will walk through how to interact with a mint, receiving and sending ecash, b
 #### Install
 Head to the [eNuts](https://www.enuts.cash/) website and install the application for your operating system. 
 #### Adding a mint
-In order to interact with ecash, you first need to have access to a **mint**, where your ecash tokens are minted and redeemed. The mint is the custodian of your Bitcoin, but does not know who you are, who you are transacting with nor how much funds you have. You can use the Txoko mint for testing. 
+In order to interact with ecash, you first need to have access to a **mint**, where your ecash tokens are minted and redeemed. The mint is the custodian of your Bitcoin but does not know who you are, who you are transacting with nor how much funds you have. You can use the Txoko mint for testing. 
 
 1. Head to the [Txoko Mint](https://bitcointxoko.com/cashu/mint/dMk78c5aR7uhHzcqH3Bwqp). Copy the mint URL. 
 2. In eNuts, go to `Options` > `Mint management` and press the `+` button. Paste the mint URL you have copied from the previous step. 
