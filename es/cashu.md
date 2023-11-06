@@ -175,7 +175,7 @@ necesitas una cartera Lightning y un teléfono u ordenador.
 ### Ver también
 - [Video](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX) de nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8
 - [Soporte Cashu](https://docs.cashu.space/contribute)
-- [NUTs](https://github.com/cashubtc/nuts) - - Notación, uso y terminología, las especificaciones del protocolo para Cashu
+- [NUTs](https://github.com/cashubtc/nuts) - Notación, uso y terminología, las especificaciones del protocolo para Cashu
 - [X-Cashu](https://github.com/cashubtc/xcashu) - HTTP 402: Se requiere pago con Cashu
 - [Proxnut](https://github.com/gandlafbtc/proxnut) - Proteger o monetizar los recursos web con el uso de tokens
 - [Prueba de Pasivos para Cashu](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
