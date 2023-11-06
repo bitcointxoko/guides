@@ -1,7 +1,6 @@
 ### ¿Qué es Cashu?
 [Cashu](https://cashu.space/) es un protocolo de Ecash de código abierto para Bitcoin que ofrece transacciones
-instantáneas de tarifa cero con una privacidad casi perfecta, creado por nostr:
-npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg. 
+instantáneas de tarifa cero con una privacidad casi perfecta, creado por nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg. 
 
 En la siguiente tabla se compara Cashu y Bitcoin on-chain, sacada de la presentación [Nuts and Bolts](https://nuts-and-bolts.gandlaf.com/) de nostr:npub1cj6ndx5akfazux7f0vjl4fyx9k0ulf682p437fe03a9ndwqjm0tqj886t6 en la Conferencia Bitcoin Bangkok 2023.
 
@@ -37,7 +36,7 @@ para desligar depósitos y retiros.
 Ecash fue concebido por primera vez por David Chaum en 1982 como un protocolo de
 transmisión de valor electrónico utilizando firmas ciegas. Cashu es una implementación
 de Ecash que utiliza la [variante](https://cypherpunks.venona.com/date/1996/03/msg01848.html) de David Wagner de Chaumian blinding de 1996 creada
-por nostr: npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg.
+por nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg.
 ### Terminología
 Para ayudar a comprender como funciona Cashu, vamos a tratar primero alguna
 terminología esencial. 
@@ -171,7 +170,7 @@ necesitas una cartera Lightning y un teléfono u ordenador.
 ### Referencias
 - [Cashu.space](https://docs.cashu.space/)
 - [Learn about Cashu](https://docs.cashu.space/resources/learn)
-- [Cashu in media](https://docs.cashu.space/resources/media)
+- [Cashu en los medios](https://docs.cashu.space/resources/media)
 - [Entrevista](https://www.youtube.com/watch?v=zdtRT7phXBo) con calle de nostr:npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0
 - [Video de nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX)
 ### Ver también
