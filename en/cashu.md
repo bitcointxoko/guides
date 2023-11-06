@@ -107,7 +107,7 @@ You can try out Cashu with our guides for [Nutstash] and [eNuts]. All you need i
 - nostr:npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0 [interview](https://www.youtube.com/watch?v=zdtRT7phXBo) with calle
 
 ### See also
-- [Video from nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX)
+- [Video](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX) from nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8
 - [Support Cashu](https://docs.cashu.space/contribute)
 - [NUTs](https://github.com/cashubtc/nuts) - Notation, Usage, and Terminology, the protocol specifications for Cashu
 - [X-Cashu](https://github.com/cashubtc/xcashu) - HTTP 402: Payment Required using Cashu
