@@ -173,6 +173,7 @@ necesitas una cartera Lightning y un teléfono u ordenador.
 - [Learn about Cashu](https://docs.cashu.space/resources/learn)
 - [Cashu in media](https://docs.cashu.space/resources/media)
 - [Entrevista](https://www.youtube.com/watch?v=zdtRT7phXBo) con calle de nostr:npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0
+- [Video de BTCsessions](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX)
 ### Ver también
 - [Soporte Cashu](https://docs.cashu.space/contribute)
 - [NUTs](https://github.com/cashubtc/nuts) - - Notación, uso y terminología, las especificaciones del protocolo para Cashu
