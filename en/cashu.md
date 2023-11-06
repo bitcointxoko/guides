@@ -113,3 +113,4 @@ You can try out Cashu with our guides for [Nutstash] and [eNuts]. All you need i
 - [Proxnut](https://github.com/gandlafbtc/proxnut) - protect or monetise web resources with using tokens
 - [Proof of Liabilities Scheme for Cashu](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
 - [Fedimint](https://fedimint.org/) - federated ecash implementation
+- [Cashabi](https://lontivero.github.io/Wiki/html/cashabi.html#construction) - Nostr-native mints using Wabisabi signing
