@@ -172,8 +172,8 @@ necesitas una cartera Lightning y un teléfono u ordenador.
 - [Learn about Cashu](https://docs.cashu.space/resources/learn)
 - [Cashu en los medios](https://docs.cashu.space/resources/media)
 - [Entrevista](https://www.youtube.com/watch?v=zdtRT7phXBo) con calle de nostr:npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0
-- [Video](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX) de nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8
 ### Ver también
+- [Video](https://youtube.com/watch?v=riTRD0BdMDI&si=0H2IzuXQiOkPR9UX) de nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8
 - [Soporte Cashu](https://docs.cashu.space/contribute)
 - [NUTs](https://github.com/cashubtc/nuts) - - Notación, uso y terminología, las especificaciones del protocolo para Cashu
 - [X-Cashu](https://github.com/cashubtc/xcashu) - HTTP 402: Se requiere pago con Cashu
