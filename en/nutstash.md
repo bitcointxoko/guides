@@ -36,7 +36,9 @@ At this point you can either send the token to someone else, or redeem it in you
 
 💡 You can check pending ecash tokens and reclaim them if the recipient has not redeemed them yet. To do this, go to the `Wallets` tab and look under `Tokens`. Make sure the `Pending` column is checked. There should be a list of pending tokens, click on the refresh button to check their status. If they are unclaimed, you can copy and redeem the token. 
 #### Multimint swaps
-You might have wondered if different mints can send and receive from each other. The answer is yes. Well, kind of. Instead of sending cashu tokens to one another, transactions between mints fall back to Lightning. To test this out, you can add another mint if you haven't already, for example the LNbits [mint](https://legend.lnbits.com/cashu/mint/4gr9Xcmz3XEkUNwiBiQGoC). But note that some mints will reserve a certain amount of sats to pay for routing fees, meaning that you cannot withdraw all of your sats. To get around this, you can also create your own mint with your Bitcoin Txoko LNbits wallet by activating the Cashu extension. Bitcoin Txoko doesn't require any reserves so you can withdraw all of your sats. 
+You might have wondered if different mints can send and receive from each other. The answer is yes. Well, kind of. Instead of sending cashu tokens to one another, transactions between mints fall back to Lightning. To test this out, you can add another mint if you haven't already, for example the LNbits [mint](https://legend.lnbits.com/cashu/mint/4gr9Xcmz3XEkUNwiBiQGoC). 
+
+💡 Note that some mints will reserve a certain amount of sats to pay for routing fees, meaning that you cannot withdraw all of your sats. To get around this, you can also create your own mint with your Bitcoin Txoko LNbits wallet by activating the Cashu extension. Bitcoin Txoko doesn't require any reserves so you can withdraw all of your sats. 
 
 1. Go to the `Mint` tab and add a new mint if you haven't already done so. 
 2. Once you have multiple mints, the option `Inter-Mint Swap` will be available to you. Open the option and read the warning. 
