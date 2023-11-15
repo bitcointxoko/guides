@@ -1,11 +1,11 @@
 ## ¿Qué es Cashu?
-Cashu es un protocolo de ecash de código abierto para Bitcoin que ofrece transacciones
+[Cashu](https://cashu.space/) es un protocolo de ecash de código abierto para Bitcoin que ofrece transacciones
 inmediatas, sin comisiones con una completa privacidad. Visita nuestra descripción para
 más detalles.
 
 ## eNuts
 
-eNuts es un excelente cliente monedero Cashu para tu móvil, disponible tanto para
+[eNuts](https://www.enuts.cash/) es un excelente cliente monedero Cashu para tu móvil, disponible tanto para
 Android como para iOS (TestFlight). Admite múltiples mints y también enviar sobre nostr.
 
 ⚠ eNuts y Cashu todavía están en versión beta. La pérdida de fondos es posible. Lea
@@ -18,39 +18,40 @@ efectivo, copias de seguridad, retirar a Lightning y el intercambio entre mints,
 final probaremos la funcionalidad de los contactos de nostr
 
 ### Instalar
-Visita el sitio web de eNuts e instala la aplicación idónea para tu sistema operativo.
+Visita el sitio web de [eNuts](https://www.enuts.cash/) e instala la aplicación idónea para tu sistema operativo.
 
 ### Añadir un mint
-Para interactuar con el efectivo, antes debes tener acceso a una casa de la moneda,
+Para interactuar con el efectivo, antes debes tener acceso a una **casa de la moneda**,
 donde se acuñen e intercambian sus tokens de efectivo. La casa de la moneda es el
 custodio de tu Bitcoin, pero no sabe quién eres, con quién estás negociando ni cuántos
 fondos tienes. Puedes usar para las pruebas.
 
-1. Dirígete a Txoko Mint y copia la URL del mint
-2. En eNuts, ve a Opciones > Gestión de menta y pulse el botón +. Pega la URL del mint
+1. Dirígete a [Txoko Mint](https://bitcointxoko.com/cashu/mint/dMk78c5aR7uhHzcqH3Bwqp) y copia la URL del mint
+2. En eNuts, ve a `Opciones` > `Gestión de menta` y pulse el botón `+`. Pega la URL del mint
 que has copiado del paso anterior.
 
 💡 Puedes añadir casas adicionales adicionales. Algunos mints públicos se pueden
-encontrar en MintIndex. Ten en cuenta que algunos de estos mints reservarán una cierta
+encontrar en [MintIndex](https://mintindex.gandlaf.com/). Ten en cuenta que algunos de estos mints reservarán una cierta
 cantidad de sats para pagar las tarifas de enrutamiento, lo que significa que no puedes
 retirar todos tus sats.
 
 ### Acuñación de Tokens
 Una vez que hayas añadido el mint, eNuts te preguntará automáticamente si quieres
 acuñar nuevos tokens de ecash de ese mint.
-1. Respuesta Sí.
+1. Respuesta `Sí`.
 2. Crea una factura por la cantidad que desea acuñar. Prueba una pequeña cantidad, por
 ejemplo, 100 sats.
 3. Paga la factura con una billetera Lightning. Una vez pagada la factura ya deberías
 tener tus tokens de ecash
-Transaccionar con ecash
+
+### Transaccionar con ecash
 Estas transacciones son básicamente enviar y recibir blobs de datos. Como tal, puedes
 probar estas funcionalidades enviándote y recibiendo a ti mismo.
-1. Para enviar efectivo, haz clic en Enviar > Enviar ecash
+1. Para enviar efectivo, haz clic en `Enviar` > `Enviar ecash`
 2. Si utilizas varios mints, selecciona el mint desde el que quieres enviar. Luego elige
-Copiar y compartir.
+`Copiar y compartir`.
 3. Elige una cantidad.
-4. Opcionalmente, puedes agregar una nota, haz clic en Continuar.
+4. Opcionalmente, puedes agregar una nota, haz clic en `Continuar`.
 5. Confirma los detalles del pago y crea un token. En este punto, puedes usar la función
 de selección de monedas para elegir qué tokens quieres gastar. Ten en cuenta que las
 fichas se denominan en 1 sat, 2 sats, 4 sats, 8 sats, 16 sats, y así. Puedes pensar en ellos
