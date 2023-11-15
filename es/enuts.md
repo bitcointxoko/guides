@@ -60,7 +60,7 @@ como billetes de 10 euros, 20 euros, 50 euros como ejemplo.
 
 En este punto, puedes enviar el token a otra persona o canjearlo en tu propia cartera.
 Como solo estamos probando las cosas, haremos esto mas tarde.
-1. Para recibir, haz clic en Recibir > Pegar y canjear efectivo. eNuts debe leer
+1. Para recibir, haz clic en `Recibir` > `Pegar y canjear efectivo`. eNuts debe leer
 automáticamente su portapapeles y canjear el token.
 
 💡 Puedes comprobar los tokens de efectivo pendientes en tu historial de transacciones
@@ -81,12 +81,12 @@ las tarifas de enrutamiento, lo que significa que no puedes retirar todos tus sa
 evitar esto, también puedes crear tu propio mint con tu cartera Bitcoin Txoko LNbits
 activando la extensión Cashu.
 
-1. Vaya a Opciones > Gestión de mint y selecciona el mint del que desea intercambiar.
-Luego vaya a Multimint swap en Fondos.
+1. Vaya a `Opciones` > `Gestión de mint` y selecciona el mint del que desea intercambiar.
+Luego vaya a `Multimint swap` en `Fondos`.
 2. Elige un mint para intercambiar.
 3. Elige una cantidad y toca en la tarifa de estimación para estimar las posibles tarifas de
 Lightning.
-4. Haz clic en Continuar.
+4. Haz clic en `Continuar`.
 5. Comprueba los detalles y, opcionalmente, usa la selección de monedas, luego
 presione Intercambiar ya.
 Ahora, en segundo plano, la casa de la moneda de envío está pagando una factura
@@ -96,12 +96,12 @@ recepción.
 
 ### Retiro
 Cuando quieras convertir tus cashu sats a Lightning sats, puedes hacer retiros.
-1. Haga clic en Enviar > Pagar factura Lightning
+1. Haga clic en `Enviar` > `Pagar factura Lightning`
 2. Seleccione un mint desde el que enviar si utiliza varias.
-3. En factura LN o LNURL, introduzca una factura, LNURL o dirección Lightning; o
+3. En factura `LN o LNURL`, introduzca una factura, LNURL o dirección Lightning; o
 simplemente escanea un código QR.
 4. Elije la cantidad y la estimación de comisiones.
-5. Comprueba los detalles antes de pulsar Cash out.
+5. Comprueba los detalles antes de pulsar `Cash out`.
 El mint canjea los tokens de efectivo y paga la factura de Lightning.
 
 ### Respaldo (Backups)
@@ -116,15 +116,15 @@ funcionarán con la misma cartera que ha creado la copia de seguridad.
 
 eNuts crea un token de cashu con todos sus fondos en él y a qué moneda pertenecen.
 
-• Para crear una copia de seguridad, ve a Opciones > Seguridad > Crear un token de
-copia de seguridad. Copia el token y guárdalo en un lugar seguro.
+• Para crear una copia de seguridad, ve a `Opciones` > `Seguridad` > `Crear un token de
+copia de seguridad`. Copia el token y guárdalo en un lugar seguro.
 
 Alternativamente, puedes hacer una copia de seguridad de cada una de tus mints
 individualmente.
 
-• Para ello, ve a Opciones > Gestión de la casa de la moneda y seleccione la casa de la
-moneda de la que desea hacer una copia de seguridad. Ve a Copia de seguridad de
-fondos, copia el token y guárdalo en un lugar seguro.
+• Para ello, ve a `Opciones` > `Gestión de la casa de la moneda` y seleccione la casa de la
+moneda de la que desea hacer una copia de seguridad. Ve a `Copia de seguridad de
+fondos`, copia el token y guárdalo en un lugar seguro.
 
 Para restaurar, simplemente copie el token de copia de seguridad y abra la aplicación
 eNuts. La aplicación debería leer su portapapeles y preguntarle si desea restaurar el
@@ -133,7 +133,7 @@ token.
 ### Nostr
 eNuts integra Nostr para que puedas enviar efectivo a tus contactos.
 
-Para usar esta función, ve a Contactos y pega tu clave pública de nostr. eNuts luego
+Para usar esta función, ve a `Contactos` y pega tu clave pública de nostr. eNuts luego
 extrae tu lista de contactos de los relays. Desafortunadamente, la función de búsqueda
 aún no se ha implementado, lo que puede hacer que encontrar el contacto correcto sea
 un poco engorroso si tienes muchos.
