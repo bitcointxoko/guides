@@ -8,7 +8,7 @@ Mutiny puede ejecutar un nodo Lightning en un navegador web. ¿Cómo funciona? U
 
 Para ejecutar Mutiny en tu navegador, simplemente navega hasta https://app.mutinywallet.com. A continuación, puedes guardar la página como una Progressive Web App para facilitar el acceso. En la mayoría de los navegadores, esta opción se llama "Instalar aplicación" o "Añadir a la pantalla de inicio".
 
-Alternativamente, puedes probar [Mutiny autoalojado por Bitcoin Txoko](https://mutiny.bitcointxoko.com), pero algunas características como gifting y contactos nostr no funcionan todavía. Puedes seguir este [tema](https://github.com/MutinyWallet/mutiny-deploy/issues/5) en GitHub para actualizaciones.
+Alternativamente, puedes probar [Mutiny autoalojado por Bitcoin Txoko](https://mutiny.bitcointxoko.com), pero algunas características como regalos y contactos nostr no funcionan todavía. Puedes seguir este [tema](https://github.com/MutinyWallet/mutiny-deploy/issues/5) en GitHub para actualizaciones.
 
 Si decides utilizar Bitcoin Txoko, ten en cuenta que sólo estamos ejecutando el frontend, el proxy websockets para conectar con la Red Lightning y el [Versioned Storage Service (VSS)](https://github.com/lightningdevkit/vss-server) para almacenar los estados Lightning. Para el sincronizador de chismes y el explorador de bloques, te recomendamos que utilices los que Mutiny proporciona por defecto. Para añadirlos,
 - Ve a `Settings` > `Servers`.
