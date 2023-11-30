@@ -12,7 +12,7 @@ Alternativamente, puedes probar [Mutiny autoalojado por Bitcoin Txoko](https://m
 
 Si decides utilizar Bitcoin Txoko, ten en cuenta que sólo estamos ejecutando el frontend, el proxy websockets para conectar con la Red Lightning y el [Versioned Storage Service (VSS)](https://github.com/lightningdevkit/vss-server) para almacenar los estados Lightning. Para el sincronizador de chismes y el explorador de bloques, te recomendamos que utilices los que Mutiny proporciona por defecto. Para añadirlos,
 - Ve a `Settings` > `Servers`.
-- En `Esplora`, escribe` https://mutiny.mempool.space/api`
+- En `Esplora`, escribe `https://mutiny.mempool.space/api`
 - En `RGS`, pega `https://scorer.mutinywallet.com/v1/rgs/snapshot/`
 - Los demás campos deberían rellenarse por defecto, incluido el LSP.
 - Pulse Guardar.
