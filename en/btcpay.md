@@ -2,7 +2,7 @@ Are you a merchant looking to start accepting Bitcoin in your business? Or are y
 ## What do I need?
 If you have a smartphone or computer with internet access and an email account, then you are good to go!
 ## Create an account
-Creating a BTCPay Server account at Bitcoin Txoko is free. Navigate to https://btcpay.bitcointxoko.com to register an account. Check your inbox for an email from bitcointxoko@gmail.com containing the confirmation link. 
+Creating a BTCPay Server account at Bitcoin Txoko is free. Navigate to [btcpay.bitcointxoko.com](https://btcpay.bitcointxoko.com) to register an account. Check your inbox for an email from bitcointxoko@gmail.com containing the confirmation link. 
 ## Create your first store
 Clicking on the confirmation link will bring you to the store creation page. Give your store a name and choose the default currency and a preferred price source. For example, you can choose EUR and Kraken, which is the recommended price source. BTCPay Server will convert the price of your goods or services from EUR to Bitcoin using the price source at the time of purchase. 
 ## Set up a wallet
