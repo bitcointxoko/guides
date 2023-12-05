@@ -10,7 +10,7 @@ To start accepting payments, you first need to link a wallet to your store. Unle
 
 💡 Lightning is the ideal payment settlement network for accepting Bitcoin payments because it offers instant settlement and low fees compared to on-chain transactions. 
 
-The easiest way to connect a Lightning wallet is to use LNDhub because you do not need to run your own Lightning node. If you do not have a LNDhub wallet yet, fear not, Bitcoin Txoko offers free LNDhub wallets and it takes less than five minutes to set up. Check nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t on how to get your own LNDhub wallet and come back once you're ready. 
+The easiest way to connect a Lightning wallet is to use LNDhub because you do not need to run your own Lightning node. If you do not have a LNDhub wallet yet, fear not, Bitcoin Txoko offers free LNDhub wallets and it takes less than five minutes to set up. Check nostr:naddr1qqxnzd3exuerqdp3xv6ngd3kqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28d2sgyz and nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t on how to get your own LNDhub wallet and come back once you're ready. 
 
 With your LNDhub wallet ready, 
 - go to your BTCPay account and look for `Wallets` in the sidebar and select `Lightning`. 
