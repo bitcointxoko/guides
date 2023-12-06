@@ -34,6 +34,8 @@ tu tarjeta.
 
 ![Al final debería verse algo así.](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/boltcard/boltcard-config.png)
 
+Al final debería ser algo parecido a esto pero con un registro UID de tu tarjeta.
+
 
 ### 3- Escribe el registro NFC en la tarjeta.
 - Para este paso necesitaras una aplicación para escribir el registro NFC en tu tarjeta,
