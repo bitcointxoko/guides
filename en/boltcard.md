@@ -23,7 +23,11 @@ On your phone with NFC capabilities, go to your LNbits wallet link. Under `Exten
 - You can set up limits for `Max transaction` and `Daily Limit` as a protective measure against malicious merchants draining your card. 
 - Name your card. 
 - Press the NFC button then bring your NFC card up to your phone to import the UID from your card. 
-- Click `create card`. 
+- Click `create card`.
+
+![In the end it should look something like this but with a UID record from your card](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/boltcard/boltcard-config.png)
+
+In the end it should look something like this but with a UID record from your card. 
 ### 3. Write the NFC record to the card
 - For this step you will need an app to write the NFC record to your card. I used the official BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873)) app. 
 - On LNbits, show `Card Key Credentials` and then scan the QR code from the BoltCard app or click `Create Link` and paste the auth URL into the BoltCard app.
