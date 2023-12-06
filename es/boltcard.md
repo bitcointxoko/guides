@@ -37,7 +37,7 @@ tu tarjeta.
 
 ### 3- Escribe el registro NFC en la tarjeta.
 - Para este paso necesitaras una aplicación para escribir el registro NFC en tu tarjeta,
-nosotros hemos utilizado la aplicación o cial de BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873))
+nosotros hemos utilizado la aplicación oficial de BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873))
 - En LNbits, muestra las credenciales de la clave de la tarjeta, luego escanea el código
 QR de la aplicación BoltCard o haz click en Crear enlace y pega la URL de
 autenticación en la aplicación BoltCard
