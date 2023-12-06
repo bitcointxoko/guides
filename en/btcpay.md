@@ -12,6 +12,8 @@ To start accepting payments, you first need to link a wallet to your store. Unle
 
 The easiest way to connect a Lightning wallet is to use LNDhub because you do not need to run your own Lightning node. If you do not have a LNDhub wallet yet, fear not, Bitcoin Txoko offers free LNDhub wallets and it takes less than five minutes to set up. Check nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t on how to get your own LNDhub wallet and come back once you're ready. 
 
+![connect](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/connect.png)
+
 With your LNDhub wallet ready, 
 - go to your BTCPay account and look for `Wallets` in the sidebar and select `Lightning`. 
 - Choose `Use custom node`. 
@@ -20,7 +22,9 @@ With your LNDhub wallet ready,
 - If it went well, you should get the message `Connection to the Lightning node successful, but no public address has been configured`. You can ignore the part about no public address has been configured, this only applies if you are running your own node. 
 - Click `Save` once you've successfully tested the wallet connection. 
 - After clicking `Save`, turn off `Enable LNURL` under the `LNRUL` section. Don't forget to click `Save` again after making changes. 
-- (Optional) At this point we also recommend checking the box next to `Display Lightning payment amounts in Satoshis` since that is easier to read. A satoshi is the smallest divisible unit of Bitcoin; there are 100 million satoshis in one Bitcoin. 
+- (Optional) At this point we also recommend checking the box next to `Display Lightning payment amounts in Satoshis` since that is easier to read. A satoshi is the smallest divisible unit of Bitcoin; there are 100 million satoshis in one Bitcoin.
+
+![config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/config.png)
 
 💡 The set up process is similar if you are using your own Lightning node. Just make sure you provide the correct connection string for your node implementation. 
 ## Create a Point of Sale
@@ -34,6 +38,7 @@ We will cover a couple of simple things you can do with your PoS app. Since BTCP
 
 💡 Remember that you can create multiple Points of Sale within BTCPay Server, each for its own use. 
 ### Keypad
+![keypad](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/keypad.png)
 For a simple demonstration, we will first go over the keypad style PoS. 
 
 - Give your PoS a name and a display title. 
@@ -44,6 +49,7 @@ The payments will be received into the LNDhub wallet you have configured earlier
 
 💡 You can save the Keypad PoS as a Progressive Web App (PWA) on your phone for easy access. On most mobile browsers this option is called `Install App` or `Add to Home Screen`. 
 ### Product list (with cart)
+![product-list-with-cart](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/product-list-with-cart.png)
 It is also possible to create a Point of Sale app with specific products, each with its own price. You can use this feature to set up a simple cashier, customer self-checkout or web shop. 
 
 - To create a new Point of Sale app, just go back to the sidebar and select `Point of Sale` again. 
@@ -53,3 +59,5 @@ It is also possible to create a Point of Sale app with specific products, each w
 In this guide we've covered the basic steps to start accepting Bitcoin in your business using BTCPay Server. BTCPay Server is an [open source project](https://github.com/btcpayserver/btcpayserver) that is constantly evolving. There are many many more features and functionalities within BTCPay Server that you can explore and use, such as Shopify integration, crowdfunding and automatic payment splits. You can also customise your store to your liking with theming, custom checkout appearance, user management, email notification and much more. If you would like to take full advantage of BTCPay Server, we recommend you to consider setting up your own [Lightning node](https://v2.minibolt.info/home/readme) and and [host your own](https://docs.btcpayserver.org/Deployment/) BTCPay Server. Check out their [documentation](https://github.com/btcpayserver/btcpayserver) and [videos](https://www.youtube.com/@BTCPayServer) for more information. 
 
 If you still have questions and doubts, let us know! We would love to hear from you and help answer any related questions. 
+
+Bitcoin Txoko is an open community. All of our services are crowdfunded by donations. If you have found this guide helpful, consider making a [donation](https://fund.bitcointxoko.com/) to help keep our servers running. Thanks in advance!
