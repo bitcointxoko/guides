@@ -6,21 +6,21 @@ Alby is a browser extension that brings Lightning and Nostr to your browser. Usi
 - Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. Make sure you save your wallet link so that you can come back to it later!
 - (Optional) A mobile device for setting up Zeus. 
 #### 1. Enable the LNDhub extension on your LNbits wallet
-In your browser, head over to your wallet link. Click on *Extensions* and enable the *LNDhub* extension. After it has been enabled, go to the LNDhub extension page. 
+In your browser, head over to your wallet link. Click on `Extensions` and enable the `LNDhub` extension. After it has been enabled, go to the LNDhub extension page. 
 #### 2. Install Alby extension
-Head over to [getalby.com](https://getalby.com/) and click on *Add Browser Extension*. Install the extension from your browser's extension store. Set up your unlock password and store it in a safe place. 
+Head over to [getalby.com](https://getalby.com/) and click on `Add Browser Extension`. Install the extension from your browser's extension store. Set up your unlock password and store it in a safe place. 
 #### 3. Import into Alby
-In the next screen, choose *Connect*, then choose *LNDhub*. Go back to your LNDhub extension and copy the connection URL. Paste that into the *LNDhub export URI* field. Press continue. You should now have been connected to your LNbits wallet with LNDhub!
+In the next screen, choose `Connect`, then choose `LNDhub`. Go back to your LNDhub extension and copy the connection URL. Paste that into the `LNDhub export URI` field. Press continue. You should now have been connected to your LNbits wallet with LNDhub!
 
 💡 You can choose between invoice URL and admin URL. They give Alby different permissions to interact with your LNbits wallet. 
 - Invoice URL allows you to generate invoices and receive payments. 
 - Admin URL also allows you to send payments. 
 #### 4. (Optional) Set up Zeus with Alby
-Now that you have connected your LNbits with Alby, you can also easily import it into Zeus with Alby. Simply open the extension, click on your wallet name, and go to Account Settings. Under **Account** you can find the option to *Connect your mobile wallet*. When you press *Connect*, you will be shown a QR code to scan from Zeus. 
+Now that you have connected your LNbits with Alby, you can also easily import it into Zeus with Alby. Simply open the extension, click on your wallet name, and go to Account Settings. Under ``Account`` you can find the option to `Connect your mobile wallet`. When you press `Connect`, you will be shown a QR code to scan from Zeus. 
 
 If you haven't installed Zeus previously, go to [zeusln.app](https://zeusln.app/) and download Zeus for your mobile operating system. 
 
-Once Zeus has been downloaded, go to *Settings -> Add a new node*. Here you can scan the QR code that Alby is showing to import the wallet. 
+Once Zeus has been downloaded, go to `Settings` > `Add a new node`. Here you can scan the QR code that Alby is showing to import the wallet. 
 
 Voilà! Now you have the power of Lightning at your fingertips. Do you feel like a god yet?
 
@@ -33,9 +33,9 @@ Zeus is an awesome open-source app that allows you to connect your own node to y
 #### 1. Download Zeus
 You can download the Zeus app for your operating system [here](https://zeusln.app/).
 #### 2. Enable the LNDhub extension on your LNbits wallet
-In your browser, head over to your wallet link. Click on *Extensions* and enable the *LNDhub* extension. After it has been enabled, go to the LNDhub extension page. 
+In your browser, head over to your wallet link. Click on `Extensions` and enable the `LNDhub` extension. After it has been enabled, go to the LNDhub extension page. 
 #### 3. Import into Zeus
-Go to *Settings -> Add a new node* on Zeus.
+Go to `Settings` > `Add a new node` on Zeus.
 
 Scan the desired wallet to import it. 
 
@@ -45,6 +45,6 @@ Scan the desired wallet to import it.
 
 Once you have scanned the QR code, all the fields should be automatically filled in Zeus. You can add a nickname for your wallet as well. 
 
-Now you can *Save Node Config* and control the wallet from your phone!
+Now you can `Save Node Config` and control the wallet from your phone!
 #### Bonus
 Zeus also offers cool features like lurker mode and biometric verification. You can also enable price conversions to a fiat currency of your choice. Furthermore you can personalise the display of the app to what you like. These are beyond the scope of this guide, play around in the app and discover all those features for yourself!
