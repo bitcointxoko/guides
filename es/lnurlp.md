@@ -58,8 +58,9 @@ Desmarque `Cantidad fija` y cambie el valor mínimo a 1 y el valor máximo a 500
 pagos más grandes fallen debido a la limitada capacidad del canal de entrada del nodo Lightning
 Bitcoin Txoko. Así que recomendamos mantenerlo en 500000 sats.
 
-Ahora abre `Opciones avanzadas` y comprueba `Habilitar nostr zaps` en la parte inferior, para que
-puedas usar tu Lightning Address para recibir zaps.
+Ahora abre `Opciones Avanzadas` y cambia el máximo de caracteres de Comentario a 799. Este paso no es necesario pero permite más funcionalidades más adelante.
+
+Marca `Habilitar nostr zaps` en la parte inferior, para que puedas utilizar tu dirección Lightning para recibir zaps.
 
 Las demás opciones avanzadas son opcionales, puedes configurarlas si quieres o dejarlas en
 blanco.
