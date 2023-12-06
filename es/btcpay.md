@@ -26,7 +26,7 @@ Con tu billetera LNDhub lista,
 
 ![config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/config.png)
 
-💡 El proceso de configuración es similar si utilizas tu propio nodo Lightning. Solo asegúrase de proporcionar la cadena de conexión correcta para la implementación de tu nodo.
+💡 El proceso de configuración es similar si utilizas tu propio nodo Lightning. Solo asegúrase de proporcionar la cadena de conexión correcta para la implementación de tu nodo. Si estás ejecutando tu propia instancia de BTCPay Server, viene con un nodo por defecto, por lo que puedes saltarse muchos de estos pasos. 
 ## Crear un Punto de Venta (Point of Sale)
 Si has llegado a este paso, date una palmadita en la espalda porque la parte aburrida ya terminó. ¡Ahora puedes crear tu Punto de Venta (Point of Sale, PoS) y comenzar a aceptar tu primer pago de Bitcoin a través de BTCPay!
 
