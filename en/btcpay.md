@@ -1,4 +1,4 @@
-Are you a merchant looking to start accepting Bitcoin in your business? Or are you a passionate Bitcoiner who wants to onboard local businesses? Or maybe you don't give two damns about Bitcoin and just want to use a fast and cheap payment processor? If the answer is yes to any of these questions, then this guide is for you. You can set up a store on [BTCPay Server](https://btcpayserver.org/) hosted by Bitcoin Txoko and start selling your goods and services for Bitcoin in under ten minutes, for free. 
+Are you a merchant looking to start accepting Bitcoin in your business? Or are you a passionate Bitcoiner who wants to onboard local businesses? Or maybe you don't care about Bitcoin and just want to use a fast and cheap payment processor or set up a simple web shop? If the answer is yes to any of these questions, then this guide is for you. You can set up a store on [BTCPay Server](https://btcpayserver.org/) hosted by Bitcoin Txoko and start selling your goods and services for Bitcoin in under ten minutes, for free. 
 ## What do I need?
 If you have a smartphone or computer with internet access and an email account, then you are good to go!
 ## Create an account
