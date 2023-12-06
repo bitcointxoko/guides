@@ -23,7 +23,7 @@ soporta [Kiwi Browser](https://kiwibrowser.com/)
 - Un dispositivo móvil para configurar Zeus
 
 #### 1. Habilita la extensión LNDhub en tu LNbits wallet
-En tu navegador, dirígete al enlace de tu cartera. Haz clic en `extensiones` y habilita la
+En tu navegador, dirígete al enlace de tu cartera. Haz clic en `Extensiones` y habilita la
 extension `LNDhub`. Una vez se haya habilitado, dirigente a la pagina de extension de
 LNDhub.
 
