@@ -16,18 +16,18 @@ This is how it works behind the scenes.
 - A mobile phone with NFC capabilities
 - LNbits wallet
 ### 1. Enable BoltCard extension
-On your phone with NFC capabilities, go to your LNbits wallet link -> Extensions and enable *Bolt Cards*. 
+On your phone with NFC capabilities, go to your LNbits wallet link -> Extensions and enable `Bolt Cards`. 
 ### 2. Create a new card record
-- Open the *Bolt Cards* extension and press the + button to create a new card. 
+- Open the `Bolt Cards` extension and press the + button to create a new card. 
 - Choose the wallet it will be connected to. This is the wallet from which funds will be spent. 
-- You can set up limits for *Max transaction* and *Daily Limit* as a protective measure against malicious merchants draining your card. 
+- You can set up limits for `Max transaction` and `Daily Limit` as a protective measure against malicious merchants draining your card. 
 - Name your card. 
 - Press the NFC button then bring your NFC card up to your phone to import the UID from your card. 
-- Click *create card*. 
+- Click `create card`. 
 ### 3. Write the NFC record to the card
 - For this step you will need an app to write the NFC record to your card. I used the official BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873)) app. 
-- On LNbits, show *Card Key Credentials* and then scan the QR code from the BoltCard app or click *Create Link* and paste the auth URL into the BoltCard app.
-- On the BoltCard app, click *Write Card Now* and bring the NFC card towards the phone and hold it there until the NFC record has been written onto the card. 
+- On LNbits, show `Card Key Credentials` and then scan the QR code from the BoltCard app or click `Create Link` and paste the auth URL into the BoltCard app.
+- On the BoltCard app, click `Write Card Now` and bring the NFC card towards the phone and hold it there until the NFC record has been written onto the card. 
 
 That's all! If everything went smoothly, you should have a working BoltCard. You can test it by tapping it against your phone and opening the LNURLw link. 
 
