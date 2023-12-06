@@ -10,7 +10,7 @@ Para comenzar a aceptar pagos, primero debes vincular una billetera a tu tienda.
 
 💡 Lightning es la red de liquidación de pagos ideal para aceptar pagos de Bitcoin porque ofrece liquidación instantánea y tarifas bajas en comparación con las transacciones en cadena. 
 
-La forma más sencilla de conectar una billetera Lightning es usar LNDhub porque no necesita correr tu propio nodo Lightning. Si aún no tienes una billetera LNDhub, no temas, Bitcoin Txoko ofrece billeteras LNDhub gratuitas y tardas menos de cinco minutos en configurarlas. Consulta nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t guía sobre cómo obtener tu propia billetera LNDhub y regresa cuando estés listo.
+La forma más sencilla de conectar una billetera Lightning es usar LNDhub porque no necesita correr tu propio nodo Lightning. Si aún no tienes una billetera LNDhub, no temas, Bitcoin Txoko ofrece billeteras LNDhub gratuitas y tardas menos de cinco minutos en configurarlas. Consulta nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t sobre cómo obtener tu propia billetera LNDhub y regresa cuando estés listo.
 
 ![connect](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/connect.png)
 
