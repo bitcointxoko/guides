@@ -10,12 +10,16 @@ In your browser, head over to your wallet link. Click on `Extensions` and enable
 #### 2. Install Alby extension
 Head over to [getalby.com](https://getalby.com/) and click on `Add Browser Extension`. Install the extension from your browser's extension store. Set up your unlock password and store it in a safe place. 
 #### 3. Import into Alby
+![alby-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-config.png)
+
 In the next screen, choose `Connect`, then choose `LNDhub`. Go back to your LNDhub extension and copy the connection URL. Paste that into the `LNDhub export URI` field. Press continue. You should now have been connected to your LNbits wallet with LNDhub!
 
 💡 You can choose between invoice URL and admin URL. They give Alby different permissions to interact with your LNbits wallet. 
 - Invoice URL allows you to generate invoices and receive payments. 
 - Admin URL also allows you to send payments. 
 #### 4. (Optional) Set up Zeus with Alby
+![alby-export](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-export.png)
+
 Now that you have connected your LNbits with Alby, you can also easily import it into Zeus with Alby. Simply open the extension, click on your wallet name, and go to Account Settings. Under ``Account`` you can find the option to `Connect your mobile wallet`. When you press `Connect`, you will be shown a QR code to scan from Zeus. 
 
 If you haven't installed Zeus previously, go to [zeusln.app](https://zeusln.app/) and download Zeus for your mobile operating system. 
@@ -44,6 +48,8 @@ Scan the desired wallet to import it.
 - Admin URL also allows you to send payments. 
 
 Once you have scanned the QR code, all the fields should be automatically filled in Zeus. You can add a nickname for your wallet as well. 
+
+![zeus-config](https://github.com/bitcointxoko/guides/blob/main/images/lndhub/zeus-config.png)
 
 Now you can `Save Node Config` and control the wallet from your phone!
 #### Bonus
