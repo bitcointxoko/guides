@@ -18,7 +18,7 @@ This is how it works behind the scenes.
 ### 1. Enable BoltCard extension
 On your phone with NFC capabilities, go to your LNbits wallet link. Under `Extensions` look for and enable `Bolt Cards`. 
 ### 2. Create a new card record
-- Open the `Bolt Cards` extension and press the + button to create a new card. 
+- Open the `Bolt Cards` extension and press the `+` button to create a new card. 
 - Choose the wallet it will be connected to. This is the wallet from which funds will be spent. 
 - You can set up limits for `Max transaction` and `Daily Limit` as a protective measure against malicious merchants draining your card. 
 - Name your card. 
