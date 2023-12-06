@@ -47,7 +47,7 @@ el teléfono y mantenlo así hasta que el registro se haya escrito en la tarjeta
 ¡Eso es todo! Si todo salió bien, deberías tener una BoltCard en funcionamiento. Puedes
 probarla tocando contra tu teléfono y abriendo el enlace LNURLw.
 
-⚠ Llevar tu BoltCard contigo signi ca que llevas dinero real contigo. Si alguien accede a
+⚠ Llevar tu BoltCard contigo significa que llevas dinero real contigo. Si alguien accede a
 tu tarjeta puede retirar todos los sats de tu cartera. Toma precauciones y mantén solo
 una pequeña cantidad de sats en tu billetera BoltCard para el gastos del día a día.
 Comprueba siempre que el comerciante está solicitando el precio correcto. Si es posible,
