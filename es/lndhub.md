@@ -34,7 +34,7 @@ desbloqueo y guárdala en un lugar seguro.
 
 #### 3. Importar a Alby
 ![alby-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-config.png)
-(Esta es una cartera de prueba. no hay fondos en ella. No muestres a nadie tu URI de exportación real!)
+(Esta es una cartera de prueba. No hay fondos en ella. No muestres a nadie tu URI de exportación real!)
 
 En la siguiente pantalla, elige `Conectar` y luego elige `LNDhub`. Vuelve a tu extensión
 LNDhub y copia la URL de conexión. Pégalo en el campo `URI de exportación de
