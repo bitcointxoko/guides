@@ -19,11 +19,10 @@ parte del navegador)
 - Una billetera LNbits
 
 ### 1- Habilita la extension BoltCard
-En tu telefono con NFC, dirigete al link de tu billetera LNbits -> Extensiones y habilita la
-extension Bolt Cards. 
+En tu telefono con NFC, dirigete al link de tu billetera LNbits. Dentro de `Extensiones` busca y habilita `Bolt Cards`.
 
 ### 2- Crea un nuevo registro de cartera
-- Abre la extensión de Bolt Cards y presiona el botón + para crear una nueva tarjeta.
+- Abre la extensión de `Bolt Cards` y presiona el botón `+` para crear una nueva tarjeta.
 - Selecciona la cartera a la que se conectará. Esta es la cartera desde la que se gastarán
 los fondos.
 - Puede establecer límites para la transacción máxima y el límite diario como medida de
