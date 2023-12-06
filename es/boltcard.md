@@ -33,6 +33,9 @@ protección contra los comerciantes maliciosos que agotan su tarjeta.
 tu tarjeta.
 - Haz clic en crear tarjeta.
 
+![Al final debería verse algo así.](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/boltcard/boltcard-config.png)
+
+
 ### 3- Escribe el registro NFC en la tarjeta.
 - Para este paso necesitaras una aplicación para escribir el registro NFC en tu tarjeta,
 nosotros hemos utilizado la aplicación o cial de BoltCard ([Android](https://play.google.com/store/apps/details?id=com.lightningnfcapp) | [iOS](https://apps.apple.com/es/app/boltcard-nfc-programmer/id6450968873))
