@@ -23,19 +23,20 @@ soporta [Kiwi Browser](https://kiwibrowser.com/)
 - Un dispositivo móvil para configurar Zeus
 
 #### 1. Habilita la extensión LNDhub en tu LNbits wallet
-En tu navegador, dirígete al enlace de tu cartera. Haz clic en *extensiones* y habilita la
-extension *LNDhub*. Una vez se haya habilitado, dirigente a la pagina de extension de
+En tu navegador, dirígete al enlace de tu cartera. Haz clic en `extensiones` y habilita la
+extension `LNDhub`. Una vez se haya habilitado, dirigente a la pagina de extension de
 LNDhub.
 
 #### 2. Instala la extensión Alby
-Dirígete a [getalby.com](https://getalby.com/) y haz clic en *Añadir extensión del navegador*. Instala la extensión
+Dirígete a [getalby.com](https://getalby.com/) y haz clic en `Añadir extensión del navegador`. Instala la extensión
 desde el store (almacén) de extensiones del navegador. Configura tu contraseña de
 desbloqueo y guárdala en un lugar seguro.
 
 #### 3. Importar a Alby
-En la siguiente pantalla, elige *Conectar* y luego elige *LNDhub*. Vuelve a tu extensión
-LNDhub y copia la URL de conexión. Pégalo en el campo *URI de exportación de
-LNDhub*. Pulse continuar. ¡Ahora deberías haber estado conectado a tu cartera de LNbits
+![alby-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-config.png)
+En la siguiente pantalla, elige `Conectar` y luego elige `LNDhub`. Vuelve a tu extensión
+LNDhub y copia la URL de conexión. Pégalo en el campo `URI de exportación de
+LNDhub`. Pulse continuar. ¡Ahora deberías haber estado conectado a tu cartera de LNbits
 con LNDhub!
 
 💡 Puedes elegir entre la URL de la factura y la URL de administración. Le dan a Alby
@@ -45,16 +46,18 @@ diferentes permisos para interactuar con tu cartera de LNbits.
 - La URL de administración también te permite enviar pagos
 
 #### 4. Configurar Zeus con Alby (opcional)
+![alby-export](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-export.png)
+
 Ahora que ya has conectado tu LNbits con Alby, también puedes importarlo de una
 manera sencilla a Zeus con Alby. Simplemente debes abrir la extensión, hacer cilc en el
-nombre de tu billetera e ir a configuración de la cuenta. En **Cuenta** se encuentra la
+nombre de tu billetera e ir a configuración de la cuenta. En `Cuenta` se encuentra la
 opción de conectar tu billetera móvil. Al pulsar conectar, se mostrará un código QR para
 escanear desde Zeus.
 
 Si no tienes instalada Zeus con anterioridad, dirígete a [zeusln.app](https://zeusln.app/) y descarga la
 aplicación de Zeus para tu sistema operativo móvil.
 
-Una vez tengas descargado Zeus, entra en *Configuración* -> *Añadir un nuevo nodo*. Aquí
+Una vez tengas descargado Zeus, entra en `Configuración` > `Añadir un nuevo nodo`. Aquí
 puedes escanear el código QR que te muestra Alby para importar la cartera.
 
 Voilà! Ya tienes el poder de Lightning en las yemas de tus dedos ¿Ya te sientes como un dios?
@@ -75,11 +78,11 @@ Provider), puedes unirte a la lista de espera [aquí](https://olympusln.com/).
 Puedes descargar la aplicación Zeus para tu sistema operativo [aquí](https://zeusln.app/).
 
 #### 2. Habilita la extension LNDhub en su billetera LNbits
-Dirigete al enlace de tu cartera desde el navegador. Haz clic en *Extensiones* y habilita la
-extension *LNDhub*. Una vez habilitada, ve a la pagina de la extensión LNDhub.
+Dirigete al enlace de tu cartera desde el navegador. Haz clic en `Extensiones` y habilita la
+extension `LNDhub`. Una vez habilitada, ve a la pagina de la extensión LNDhub.
 
 #### 3. Importar a Zeus
-Ve a _Configuración -> Añadir un nuevo nodo en Zeus_.
+Ve a `Configuración` > `Añadir un nuevo nodo en Zeus`.
 
 Escanea la cartera que quieras instalar.
 
@@ -89,6 +92,8 @@ Escanea la cartera que quieras instalar.
 
 Una vez que hayas escaneado el código QR, todos los campos en Zeus deberían
 rellenarse automáticamente. También puedes añadir un apodo para tu cartera.
+
+![zeus-config](https://github.com/bitcointxoko/guides/blob/main/images/lndhub/zeus-config.png)
 
 ¡Ahora puedes guardar la configuración del nodo y controlar la cartera desde tu teléfono!
 
