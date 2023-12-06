@@ -52,7 +52,7 @@ Check `Enable nostr zaps` at the bottom, so that you can use your Lightning Addr
 
 The other `Advanced options` are optional, you can configure them if you want, or leave them blank. 
 
-![In the end it should look something like this. ](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnaddress-config.jpeg)
+![In the end it should look something like this. ]([https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnaddress-config.jpeg](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlp/lnurlp.png))
 In the end it should look something like this. 
 
 When you've checked everything is correct, go ahead and click on `Create Pay Link`. 
