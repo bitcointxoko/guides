@@ -15,7 +15,7 @@ En resumen, cuando otro usuario quiere pagarte usando tu dirección Lightning (L
 Address), tu billetera convierte la dirección Lightning en una solicitud de pago LNURL. Luego se
 utiliza esa solicitud de pago LNURL exitosa para obtener una factura BOLT11.
 
-💡 Dirección Lightning -> LNURLp -> Factura BOLT 11.
+💡 Dirección Lightning > LNURLp > Factura BOLT 11.
 
 ### Suena bien, pero ¿cuál es el problema?
 Por el momento, la mayoría de las implementaciones de Lightning Address son custodia, porque
@@ -39,12 +39,12 @@ nombre que quieras.
 ⚠️ ¡Asegúrate de guardar el enlace en tu cartera para poder acceder a él más tarde! Una buena
 manera de hacer esto es guardarlo en su administrador de contraseñas, como [Bitwarden](https://bitwarden.com/). 
 ### 2. Activar extensiones
-Hace falta la extensión **LNURLp** para que las direcciones Lightning funcionen.
+Hace falta la extensión `LNURLp` para que las direcciones Lightning funcionen.
 
-Ve a *Extensiones* en la barra de herramientas y activa **LNURLp**.
+Ve a `Extensiones` en la barra de herramientas y activa `LNURLp`.
 
 ### 3. Creando tu enlace de pago
-Vaya a la extensión LNURLp y haz clic en *Nuevo enlace de pago*.
+Vaya a la extensión LNURLp y haz clic en `Nuevo enlace de pago`.
 
 Elige la cartera que has creado.
 
@@ -52,13 +52,13 @@ Para la descripción del artículo, puedes escribir lo que quieras.
 
 Elige un nombre de usuario de tu dirección Lightning. Tu dirección Lightning se verá como username@bitcointxoko.com. 
 
-Desmarque *Cantidad fija* y cambie el valor mínimo a 1 y el valor máximo a 500000.
+Desmarque `Cantidad fija` y cambie el valor mínimo a 1 y el valor máximo a 500000.
 
 ⚠️ También puedes cambiar el valor máximo a algo más alto, pero es más probable que los
 pagos más grandes fallen debido a la limitada capacidad del canal de entrada del nodo Lightning
 Bitcoin Txoko. Así que recomendamos mantenerlo en 500000 sats.
 
-Ahora abre *Opciones avanzadas* y comprueba *Habilitar nostr zaps* en la parte inferior, para que
+Ahora abre `Opciones avanzadas` y comprueba `Habilitar nostr zaps` en la parte inferior, para que
 puedas usar tu Lightning Address para recibir zaps.
 
 Las demás opciones avanzadas son opcionales, puedes configurarlas si quieres o dejarlas en
@@ -68,11 +68,11 @@ blanco.
 
 Al final debería verse algo así.
 
-Cuando hayas comprobado que todo es correcto, sigue adelante y haz clic en *Crear enlace de
-pago*.
+Cuando hayas comprobado que todo es correcto, sigue adelante y haz clic en `Crear enlace de
+pago`.
 
 ### Probando
-Puedes probar si tu nueva dirección Lightning funciona yendo a otra cartera, pulsando en *Enviar* y escribiendo tu dirección Lightning como destino, y luego enviándote una pequeña cantidad de
+Puedes probar si tu nueva dirección Lightning funciona yendo a otra cartera, pulsando en `Enviar` y escribiendo tu dirección Lightning como destino, y luego enviándote una pequeña cantidad de
 sats.
 
 Vuelve a tu billetera Bitcoin Txoko y comprueba si has recibido tu propio pago. Es posible que
@@ -86,7 +86,7 @@ Si no es así, háznoslo saber. Siempre estamos aquí para ayudar.
 
 #### Nostr zaps
 Puedes añadir tu dirección Bitcoin Txoko Lightning a tu perfil de nostr y usarla para recibir zaps.
-En la mayoría de los clientes, esto se hace yendo a Perfil -> Editar -> Dirección Lightning y
+En la mayoría de los clientes, esto se hace yendo a Perfil > Editar > Dirección Lightning y
 cambiando la dirección Lightning.
 
 #### LNDhub
@@ -100,4 +100,4 @@ fácilmente con sus teléfonos. ¡Muy útil si estás introduciendo en bitcoin a
 favorito para que pueda recibir propinas Lightning!
 
 Simplemente comparte el enlace a tu página compartida, o imprime el código QR como PDF
-yendo a Ver enlace -> Imprimir.
+yendo a Ver enlace > Imprimir.
