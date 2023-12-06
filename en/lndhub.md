@@ -29,7 +29,7 @@ Zeus is an awesome open-source app that allows you to connect your own node to y
 #### What do I need?
 - Android or iOS phone
 - Another device on which you can access your LNbits wallet (for displaying the QR code to scan)
-- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to our wallet page and create one. Make sure you save your wallet link so that you can come back to it later!
+- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. Make sure you save your wallet link so that you can come back to it later!
 #### 1. Download Zeus
 You can download the Zeus app for your operating system [here](https://zeusln.app/).
 #### 2. Enable the LNDhub extension on your LNbits wallet
