@@ -1,4 +1,4 @@
-Si bien puedes guardar tu billetera BitcoinTxoko LNbits en tu teléfono como una
+LNDhub permite importar fácilmente una billetera en aplicaciones compatibles. Si bien puedes guardar tu billetera BitcoinTxoko LNbits en tu teléfono como una
 aplicación web progresiva (PWA), una aplicación nativa como [Zeus](https://zeusln.app/) o [BlueWallet](https://bluewallet.io/) ofrece
 una mejor experiencia de usuario así como un mayor nivel de seguridad. Con [Alby](https://getalby.com/),
 también puedes importar la billetera a la extensión de tu navegador para conseguir una
@@ -19,7 +19,7 @@ privada en clientes web.
 #### ¿Qué necesito?
 - Un navegador web que soporte extensiones Chrome o Firefox. En Android las
 soporta [Kiwi Browser](https://kiwibrowser.com/) 
-- Acceso a tu billetera LNbits.
+- Acceso a tu billetera LNbits. Si todavía no tienes una billetera LNbits, dirígete a [nuestra página de billeteras](https://bitcointxoko.com) y crea una. Asegúrate de guardar el enlace de tu billetera para poder volver a ella más tarde.
 - Un dispositivo móvil para configurar Zeus
 
 #### 1. Habilita la extensión LNDhub en tu LNbits wallet
@@ -72,7 +72,7 @@ Provider), puedes unirte a la lista de espera [aquí](https://olympusln.com/).
 ### ¿Qué necesito?
 - Teléfono Android o iOS
 - Otro dispositivo en el que puede acceder a su billetera LNbits (para mostrar el código QR para escanear)
-- Acceso a su billetera LNbits
+- Acceso a tu billetera LNbits. Si todavía no tienes una billetera LNbits, dirígete a [nuestra página de billeteras](https://bitcointxoko.com) y crea una. Asegúrate de guardar el enlace de tu billetera para poder volver a ella más tarde.
   
 #### 1. Descarga Zeus
 Puedes descargar la aplicación Zeus para tu sistema operativo [aquí](https://zeusln.app/).
