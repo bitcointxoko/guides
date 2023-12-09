@@ -95,7 +95,7 @@ Escanea la cartera que quieras instalar.
 Una vez que hayas escaneado el código QR, todos los campos en Zeus deberían
 rellenarse automáticamente. También puedes añadir un apodo para tu cartera.
 
-![zeus-config](https://github.com/bitcointxoko/guides/blob/main/images/lndhub/zeus-config.png)
+![zeus-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/zeus-config.png)
 
 ¡Ahora puedes guardar la configuración del nodo y controlar la cartera desde tu teléfono!
 
