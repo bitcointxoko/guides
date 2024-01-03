@@ -30,7 +30,7 @@ Abre tu cartera LNbits. Activa la extensión LNURLw desde la barra de herramient
 
 Cuando estés satisfecho con la configuración, procede a crear el enlace de retiro.
 
-3. Escribe el enlace en la tarjeta NFC
+## 3. Escribe el enlace en la tarjeta NFC
 En tu enlace de retiro recién creado, haz clic en `view LNURL` ("ver LNURL"). Haz clic en el botón `Write to NFC` ("Escribir en NFC") y acerca tu tarjeta NFC a tu teléfono para que se pueda escribir en ella.
 
 ![write](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlw-card/write.png)
