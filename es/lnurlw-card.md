@@ -4,7 +4,7 @@
 
 - Cartera LNbits
 - Teléfono Android
-- Tarjeta NFC con capacidades de al menos NTAG2*, por ejemplo, NTAG216. Consulta la naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5 para saber dónde comprar las tarjetas.
+- Tarjeta NFC con capacidades de al menos NTAG2*, por ejemplo, NTAG216. Consulta la nostr:naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5 para saber dónde comprar las tarjetas.
 
 💡 Las tarjetas NTAG2* te permiten escribir un enlace en ellas. Por ejemplo, pueden funcionar como una tarjeta de presentación que contiene la URL del sitio web de la empresa. Las tarjetas NTAG424 no solo tienen más memoria, sino que también cuentan con un parámetro SUN que permite la autenticación del servidor web, lo cual añade más seguridad a tus pagos. Este último tipo de tarjetas también se pueden convertir en [BoltCards](https://boltcard.org/).
 
@@ -39,4 +39,4 @@ En tu enlace de retiro recién creado, haz clic en `view LNURL` ("ver LNURL"). H
 
 💡 Informa al destinatario de la tarjeta sobre el saldo de sats que tiene para que no pierda tiempo intentando obtener hasta el último satoshi.
 
-💡 Una vez que el destinatario haya retirado sus sats de la tarjeta de regalo, puede volver a escribir en ella su propia cartera y reutilizarla. ¡Dos pájaros de un tiro! Si la tarjeta que le diste es NTAG424, puede convertirla en una "tarjeta de débito" de Lightning como describimos en la naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5. Si la tarjeta es solo NTAG2*, entonces solo puede convertirla en otra tarjeta de regalo.
+💡 Una vez que el destinatario haya retirado sus sats de la tarjeta de regalo, puede volver a escribir en ella su propia cartera y reutilizarla. ¡Dos pájaros de un tiro! Si la tarjeta que le diste es NTAG424, puede convertirla en una "tarjeta de débito" de Lightning como describimos en la nostr:naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5. Si la tarjeta es solo NTAG2*, entonces solo puede convertirla en otra tarjeta de regalo.
