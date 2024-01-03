@@ -1,6 +1,6 @@
 ¿Alguna vez has querido regalarle sats a alguien en forma física? Con una cartera LNbits, puedes crear fácilmente una tarjeta de regalo NFC. Esto funciona escribiendo un enlace LNURLw en la tarjeta NFC, desde el cual el destinatario puede retirar sus sats con una cartera compatible con LNURL.
 
-##¿Qué necesitas?
+## ¿Qué necesitas?
 
 - Cartera LNbits
 - Teléfono Android
@@ -8,10 +8,10 @@
 
 💡 Las tarjetas NTAG2* te permiten escribir un enlace en ellas. Por ejemplo, pueden funcionar como una tarjeta de presentación que contiene la URL del sitio web de la empresa. Las tarjetas NTAG424 no solo tienen más memoria, sino que también cuentan con un parámetro SUN que permite la autenticación del servidor web, lo cual añade más seguridad a tus pagos. Este último tipo de tarjetas también se pueden convertir en [BoltCards](https://boltcard.org/).
 
-##1. Activa la extensión
+## 1. Activa la extensión
 Abre tu cartera LNbits. Activa la extensión LNURLw desde la barra de herramientas y ve a la extensión.
 
-##2. Crea un enlace de retiro
+## 2. Crea un enlace de retiro
 - En la página de la extensión LNURLw, elige "Enlace(s) de retiro avanzado".
 
 - Selecciona la cartera desde la cual se retirarán los sats. Probablemente quieras separar esto de tu cartera principal de LNbits. Para hacerlo, puedes crear primero una nueva cartera LNbits yendo a la barra de herramientas y seleccionando "+ Añadir una nueva cartera", luego depositando algunos sats en la cartera recién creada.
