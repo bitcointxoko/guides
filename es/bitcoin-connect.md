@@ -39,6 +39,6 @@ Si no estás familiarizado con él, Coracle es un cliente social de Nostr que so
 
 ## Conclusión
 
-Creemos que la combinación de Bitcoin Connect y Nostr Connect supera un gran obstáculo de experiencia de usuario cuando se trata de utilizar clientes Nostr en móviles. No sólo los usuarios móviles ya no dependen de extensiones complicadas como Alby, sino que también permite a los clientes web competir con los clientes nativos, que a menudo se quedan atrás en el desarrollo y carecen de ciertas funcionalidades debido a la censura de la tienda de aplicaciones. 
+Creemos que la combinación de Bitcoin Connect y Nostr Connect supera un gran obstáculo de experiencia de usuario cuando se trata de utilizar clientes Nostr en móviles. No sólo los usuarios móviles ya no dependen de extensiones complicadas, sino que también permite a los clientes web competir con los clientes nativos, que a menudo se quedan atrás en el desarrollo y carecen de ciertas funcionalidades debido a la censura de la tienda de aplicaciones. 
 
 Esperamos que esta breve guía te haya resultado útil. Si es así, prueba a zapear este artículo con tu billetera recién conectada!
