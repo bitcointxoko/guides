@@ -2,7 +2,7 @@
 
 nostr:nevent1qqs9h5lk24vu4ms9s873d8yvmwzs90h37zn68ck0krj886fe89vgdrcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcpzamhxue69uhkzarvv9ejumn0wd68ytnvv9hxgtcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qyfhwumn8ghj7ur4wfcxcetsv9njuetn9uq3yamnwvaz7tmsw4e8qmr9wpskwtn9wv4drcwx
 
-Bitcoin Connect puede conectar distintos tipos de carteras Lightning, desde Nostr Wallet Connect (NWC, [NIP-47](https://github.com/nostr-protocol/nips/blob/master/47.md)) hasta el uso de tu propio nodo. 
+Bitcoin Connect puede conectar distintos tipos de billeteras Lightning, desde Nostr Wallet Connect (NWC, [NIP-47](https://github.com/nostr-protocol/nips/blob/master/47.md)) hasta el uso de tu propio nodo. 
 
 Anteriormente hemos cubierto cómo utilizar Nostr Wallet Connect para conectar tu billetera Mutiny a sitios web y aplicaciones en la [Guía Mutiny], ahora puedes conectar tu billetera Bitcoin Txoko LNbits a Coracle o Nostrudel utilizando Bitcoin Connect para hacer zaps con un solo toque. ¡Vamos a probarlo!
 
