@@ -14,7 +14,7 @@ Dado que existe un cierto grado de confianza en el sitio web y en que no hay scr
 
 Una vez que tengas un monedero listo, busca la sección `Documentos de API` y toma nota de tu *admin key*. La necesitaremos más tarde para conectar esta billetera usando Bitcoin Connect. 
 
-![adminkey](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/bitcoin-connect/adminkey.png)
+![adminkey](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/bitcoin-connect/adminkey.png)⚠️ Esto es sólo una billetera vacía para la demostración. No muestres tu *admin key* a nadie!
 
 💡 Puedes seguir recibiendo zaps en tu dirección Lightning vinculada a tu billetera principal como explicamos en la nostr:naddr1qqxnzd3exuerqdp3xv6ngd3kqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28d2sgyz. Esta guía solo se aplica al **envío** de zaps. 
 
