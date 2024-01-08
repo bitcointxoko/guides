@@ -12,7 +12,7 @@ Si eres nuevo en Bitcoin Txoko, primero crea una billetera en [bitcointxoko.com]
 
 Dado que existe un cierto grado de confianza en el sitio web y en que no hay scripts maliciosos de terceros leyendo la conexión desde el almacenamiento o la memoria, sería prudente configurar una billetera independiente para su uso con Bitcoin Connect con su propio presupuesto en lugar de vincular tu billetera principal. Afortunadamente, esto sólo requiere dos clics en LNbits. Simplemente haz clic en `+ Agregar nueva billetera` en la barra de herramientas, dale un nombre a la billetera y créalo. Transfiera un pequeño presupuesto para zapear a la billetera recién creada. 
 
-Una vez que tengas un monedero listo, busca la sección `Documentos de API` y toma nota de tu *admin key*. La necesitaremos más tarde para conectar esta billetera usando Bitcoin Connect. 
+Una vez que tengas una billetera lista, busca la sección `Documentos de API` y toma nota de tu *admin key*. La necesitaremos más tarde para conectar esta billetera usando Bitcoin Connect. 
 
 ![adminkey](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/bitcoin-connect/adminkey.png)⚠️ Esto es sólo una billetera vacía para la demostración. No muestres tu *admin key* a nadie!
 
