@@ -8,7 +8,7 @@ Since the client only opens one connection instead of many, it saves bandwidth a
 As the proxy connects to the relays on the behalf of the client, the IP address of the proxy is exposed to the relays instead of the client's. (Although you still need to trust your proxy provider). 
 ### How to use it
 
-A nostr proxy can easily be self hosted. Check out this [repo](https://github.com/Dolu89/nostr-proxy) for self-hosting instructions. 
+A nostr proxy can easily be self hosted. Check out this [repo](https://github.com/Dolu89/nostr-proxy) by nostr:npub1txukm7xckhnxkwu450sm59vh2znwm45mewaps4awkef2tvsgh4vsf7phrl for self-hosting instructions. 
 
 For those of us who do not have the resources to self-host, Bitcoin Txoko hosts a [community instance](https://nproxy.bitcointxoko.com). 
 
