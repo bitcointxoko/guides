@@ -12,6 +12,8 @@ A nostr proxy can easily be self hosted. Check out this [repo](https://github.co
 
 For those of us who do not have the resources to self-host, Bitcoin Txoko hosts a [community instance](https://nproxy.bitcointxoko.com). 
 
+![nostr-proxy](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/nostr-proxy/nostr-proxy.png)
+
 As you can see, it is connected to some of the most popular relays. 
 
 To use it, simply add 
