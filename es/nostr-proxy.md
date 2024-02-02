@@ -14,7 +14,7 @@ Un proxy nostr puede ser fácilmente autoalojado. Echa un vistazo a este [repo](
 
 Para los que no tenemos recursos para autoalojarnos, Bitcoin Txoko alberga una [instancia comunitaria](https://nproxy.bitcointxoko.com).
 
-![nostr-proxy](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/nostr-proxy/nostr-proxy.png)
+![nostr-proxy](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/nostr-proxy/instance.png)
 
 Como puedes ver, está conectado a algunos de los relays más populares. 
 
