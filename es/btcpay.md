@@ -12,7 +12,7 @@ Para comenzar a aceptar pagos, primero debes vincular una billetera a tu tienda.
 
 La forma más sencilla de conectar una billetera Lightning es usar LNDhub porque no necesita correr tu propio nodo Lightning. Si aún no tienes una billetera LNDhub, no temas, Bitcoin Txoko ofrece billeteras LNDhub gratuitas y tardas menos de cinco minutos en configurarlas. Consulta nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t sobre cómo obtener tu propia billetera LNDhub y regresa cuando estés listo.
 
-![connect](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/connect.png)
+![connect](https://cdn.satellite.earth/038642b9f6e77623b7affb20adfce5af46a64d9cecb53c1cb651043a88a72597.webp)
 
 Con tu billetera LNDhub lista, 
 - ve a tu cuenta BTCPay, busca `Wallets` en la barra lateral y selecciona `Lightning`.
@@ -24,7 +24,7 @@ Con tu billetera LNDhub lista,
 - Después de hacer clic en `Save`, desactiva `Enable LNURL` en la sección `LNRUL`. No olvides hacer clic en `Save` nuevamente después de realizar cambios. 
 - (Opcional) En este punto, también recomendamos marcar la casilla junto a `Display Lightning payment amounts in Satoshis`, ya que es más fácil de leer. Un satoshi es la unidad divisible más pequeña de Bitcoin; hay 100 millones de satoshis en un Bitcoin. 
 
-![config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/config.png)
+![config](https://cdn.satellite.earth/d0f30a95573894f674dd7e21646e583bcc69f1a5179556b8cc7853de1cf1bb02.webp)
 
 💡 El proceso de configuración es similar si utilizas tu propio nodo Lightning. Solo asegúrase de proporcionar la cadena de conexión correcta para la implementación de tu nodo. Si estás ejecutando tu propia instancia de BTCPay Server, viene con un nodo por defecto, por lo que puedes saltarse muchos de estos pasos. 
 ## Crear un Punto de Venta (Point of Sale)
@@ -38,7 +38,7 @@ Cubriremos un par de cosas simples que puede hacer con tu aplicación PoS. Dado 
 
 💡 Recuerda que puedes crear múltiples Puntos de Venta dentro de BTCPay Server, cada uno para su uso.
 ### Keypad (Teclado)
-![keypad](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/keypad.png)
+![keypad](https://cdn.satellite.earth/019bd809f089c02d44a10d1824a9226b89d0199f4eeef06d09f859fce1b97310.webp)
 
 Para una demostración sencilla, primero repasaremos el PoS con estilo de teclado.
 
@@ -50,7 +50,7 @@ Los pagos se recibirán en la billetera LNDhub que configuraste anteriormente. E
 
 💡 Puedes guardar el Keypad PoS como una aplicación web progresiva (PWA) en tu teléfono para acceder fácilmente. En la mayoría de los navegadores móviles, esta opción se llama "Instalar aplicación" o "Agregar a la pantalla de inicio". 
 ### Lista de productos con cesta (Product list with cart)
-![product-list-with-cart](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/product-list-with-cart.png)
+![product-list-with-cart](https://cdn.satellite.earth/3f7572de5585455096375bf05ead665f2172f6c0dd3b2caa8f67e79f30b13b4e.webp)
 
 También es posible crear una app de Punto de Venta con productos específicos, cada uno con su propio precio. Puedes utilizar esta función para configurar una caja sencilla, un sistema de autopago para el cliente o una tienda web.
 
