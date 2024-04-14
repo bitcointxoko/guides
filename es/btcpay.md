@@ -12,6 +12,8 @@ Para comenzar a aceptar pagos, primero debes vincular una billetera a tu tienda.
 
 La forma más sencilla de conectar una billetera Lightning es usar LNDhub porque no necesita correr tu propio nodo Lightning. Si aún no tienes una billetera LNDhub, no temas, Bitcoin Txoko ofrece billeteras LNDhub gratuitas y tardas menos de cinco minutos en configurarlas. Consulta nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t sobre cómo obtener tu propia billetera LNDhub y regresa cuando estés listo.
 
+Si ya dispones de una billtera, te recomendamos que crees una billetera independiente para este caso. Esto es más fácil de contabilizar y más seguro. Simplemente haz clic en `+ Agregar nueva billetera` en la barra de herramientas, dale un nombre a la billetera y créalo.
+
 ![connect](https://cdn.satellite.earth/038642b9f6e77623b7affb20adfce5af46a64d9cecb53c1cb651043a88a72597.webp)
 
 Con tu billetera LNDhub lista, 
