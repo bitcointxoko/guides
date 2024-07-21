@@ -324,7 +324,7 @@ Note: change `nix-bitcoin.operator.name` to your actual username.
 
 Rebuild again with `sudo nixos-rebuild switch --flake .`
 
-Note: since we've enabled the secure node preset, we have disabled `sudo`. Use `doas` instead of `sudo` from now on. `doas` is a more secure alternative to `sudo`. [See more]()
+Note: since we've enabled the secure node preset, we have disabled `sudo`. Use `doas` instead of `sudo` from now on. `doas` is a more secure alternative to `sudo`. [See more](https://lobste.rs/s/efsvqu/heap_based_buffer_overflow_sudo_cve_2021#c_c6fcfa)
 
 ### Adding services
 
