@@ -337,13 +337,12 @@ Para empezar, vamos a crear un nuevo directorio dentro de nuestro directorio `do
 ```bash
 mkdir system
 mkdir system/bitcoin
-cd system/bitcoin
 ```
 
 Ahora vamos a escribir nuestro archivo `bitcoind.nix` para configurar bitcoind.
 
 ```bash
-vim bitcoind.nix
+vim system/bitcoin/bitcoind.nix
 ```
 
 ```nix
