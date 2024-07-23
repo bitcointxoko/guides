@@ -480,7 +480,7 @@ rsync root@existing-bitcoin-node:/path/to/existing/bitcoind-datadir/ /var/lib/bi
 doas chown -R bitcoin: /var/lib/bitcoind
 ```
 
-4. Iniciar `bitcoind
+4. Iniciar `bitcoind`
 
 ```bash
 doas systemctl start bitcoind.service
