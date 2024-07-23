@@ -2,7 +2,7 @@
 
 Hay varias formas de instalar NixOS. Puedes elegir entre una máquina virtual o instalarlo en hardware dedicado. Instalar NixOS en una máquina virtual es una gran manera de probarlo, y la reproducibilidad de Nix significa que podemos copiar fácilmente una configuración de trabajo de nuestra VM a hardware dedicado más adelante. Cubriremos cómo instalar la imagen de NixOS en una VM usando VirtualBox, pero si estás siguiendo con hardware dedicado, el resto de la guía es esencialmente la misma.
 
-## VirtualBox
+### VirtualBox
 
 Descarga el archivo ISO de tu elección desde la [fuente oficial](https://nixos.org/download). Usaremos la versión recomendada de GNOME, pero no hay diferencia si eliges Plasma o minimal en su lugar.
 
