@@ -11,9 +11,7 @@ Funciona utilizando el [protocolo de pago LNURL](https://github.com/lnurl/luds/b
 
 ![Aquí se muestra un sencillo esquema de lo que ocurre en segundo plano.](https://blob.satellite.earth/908a8572fe3ec8c5b17bcbae1065b69af15b39958401c87128723f3250122cec)Aquí se muestra un sencillo esquema de lo que ocurre en segundo plano.
 
-En resumen, cuando otro usuario quiere pagarte usando tu dirección Lightning (Lightning
-Address), tu billetera convierte la dirección Lightning en una solicitud de pago LNURL. Luego se
-utiliza esa solicitud de pago LNURL exitosa para obtener una factura BOLT11.
+En resumen, cuando otro usuario quiere pagarte usando tu dirección Lightning, tu billetera convierte la dirección Lightning en una solicitud de pago LNURL. Luego se utiliza esa solicitud de pago LNURL exitosa para obtener una factura BOLT11.
 
 💡 Dirección Lightning > LNURLp > Factura BOLT 11.
 
