@@ -51,7 +51,7 @@ Go to `Extensions` in the toolbar and activate `Pay Links`.
 
 - The other `Advanced options` are optional, you can configure them if you want, or leave them blank. 
 
-![In the end it should look something like this. ](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlp/lnurlp-config.png)
+![In the end it should look something like this. ](https://cdn.satellite.earth/4b62fbb4084d198ebd1dfb985db448577bf3bb6b138dfbbd456bc6228751729e.webp)
 In the end it should look something like this. 
 
 - When you've checked everything is correct, go ahead and click on `Create Pay Link`. 
