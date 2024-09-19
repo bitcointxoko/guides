@@ -2,7 +2,7 @@ LNDhub allows you to easily import a wallet into compatible applications. While 
 
 In this guide, we will cover how to import the wallet into your browser and your phone. If you want to use your wallet in both the browser and on your phone, start with the [Alby setup](#Alby), as one of the steps will easily allow you to import your wallet into Zeus as well. But if you are only interested in using the wallet on your phone, you can skip straight to the [Zeus section](#Zeus). 
 ### Alby
-nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0s8jq7y6 is a browser extension that brings Lightning and Nostr to your browser. Using the [WebLN](https://www.webln.dev/) protocol, the extension can easily detect invoices on webpages and pay them as well as let you sign into websites with Lightning. You can also set budgets for your favourite Lightning sites. Furthermore, it can act as a Nostr signer using [NIP-07](https://github.com/nostr-protocol/nips/blob/master/07.md), which is much more secure than entering your private key into web clients. 
+nostr:nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0s8jq7y6 is a browser extension that brings Lightning and Nostr to your browser. Using the [WebLN](https://www.webln.dev/) protocol, the extension can easily detect invoices on webpages and pay them as well as let you sign into websites with Lightning. You can also set budgets for your favourite Lightning sites. Furthermore, it can act as a Nostr signer using [NIP-07](https://github.com/nostr-protocol/nips/blob/master/07.md), which is much more secure than entering your private key into web clients. 
 #### What do I need? 
 - Web browser that supports Chrome or Firefox extensions. 
 - Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. 
@@ -31,7 +31,7 @@ Once Zeus has been downloaded, go to `Settings` > `Add a new node`. Here you can
 Voilà! Now you have the power of Lightning at your fingertips. Do you feel like a god yet?
 
 ### Zeus
-nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf is an awesome open-source app that allows you to connect your own node to your mobile device. It supports all the major Lightning node implementations, such as LND, CLN and Eclair, as well as connections over both Tor and clearnet. Recently they have also announced their own LSP (Lightning Service Provider), you can join the waitlist [here](https://olympusln.com/). 
+nostr:nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf is an awesome open-source app that allows you to connect your own node to your mobile device. It supports all the major Lightning node implementations, such as LND, CLN and Eclair, as well as connections over both Tor and clearnet. Recently they have also announced their own LSP (Lightning Service Provider), you can join the waitlist [here](https://olympusln.com/). 
 #### What do I need?
 - Android or iOS phone
 - Another device on which you can access your LNbits wallet (for displaying the QR code to scan)
