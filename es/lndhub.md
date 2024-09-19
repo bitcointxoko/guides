@@ -1,11 +1,7 @@
 LNDhub te permite importar fácilmente una billetera en aplicaciones compatibles. Si bien puedes guardar tu billetera Bitcoin Txoko LNbits en tu teléfono como una
 aplicación web progresiva (PWA), una aplicación nativa como [Zeus](https://zeusln.app/) o [BlueWallet](https://bluewallet.io/) ofrece
 una mejor experiencia de usuario así como un mayor nivel de seguridad. Con [Alby](https://getalby.com/),
-también puedes importar la billetera a la extensión de tu navegador para facilitar los pagos Lightning en la web y para los zaps de Nostr. Es posible importar tu
-billetera de LNbits a Zeus, BlueWallet o Alby con [LNDhub](https://github.com/BlueWallet/LndHub/tree/master). En esta guía cubriremos cómo
-hacerlo con Alby y Zeus. Con la configuración de Alby, uno de los pasos también te
-permitirá importar fácilmente tu billetera a Zeus. Pero si solo quieres importar tu billetera
-a Zeus, puedes saltar directamente a la [sección de Zeus](#Zeus).
+también puedes importar la billetera a la extensión de tu navegador para facilitar los pagos Lightning en la web y para los zaps de Nostr. Por suerte para nosotros, todos estos monederos hablan un lenguaje común llamado [LNDhub](https://github.com/BlueWallet/LndHub/tree/master). En esta guía cubriremos cómo importar la billetera a tu navegador y a tu móvil. Si quieres usar tu billetera tanto en el navegador como en tu móvil, empieza con [la configuración de Alby](#Alby), ya que uno de los pasos te permitirá importar fácilmente tu billetera también a Zeus. Pero si sólo te interesa utilizar la billetera en tu móvil, puedes pasar directamente a [la sección de Zeus](#Zeus).
 
 ### Alby
 
