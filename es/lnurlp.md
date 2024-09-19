@@ -29,7 +29,7 @@ Txoko y ve retirando a tu billetera de autocustodia a medida que recibas más sa
 ### Estoy listo, ¿qué necesito para empezar?
 ¡Todo lo que necesitas es un teléfono móvil o un ordenador y una conexión a Internet!
 
-### 1. Creando tu cartera
+### 1. Creando tu billetera
 Si aún no lo has hecho, navega a https://bitcointxoko.com y crea una nueva billetera. Puedes elegir el
 nombre que quieras.
 
