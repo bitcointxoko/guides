@@ -1,9 +1,9 @@
-LNDhub allows you to easily import a wallet into compatible applications. While you can save your Bitcoin Txoko LNbits wallet to your phone as a progressive web app (PWA), a native app like [Zeus](https://zeusln.app/) or [BlueWallet](https://bluewallet.io/) offers a better user experience and better security. With [Alby](https://getalby.com/), you can also import the wallet into your browser extension for easy Lightning on the web and for Nostr zaps. It's possible to import your LNbits wallet into Zeus, BlueWallet, Alby or BTCPay Server with [LNDhub](https://github.com/BlueWallet/LndHub/tree/master). We will cover how to do it with Alby and Zeus in this guide. With the Alby setup, one of the steps will easily allow you to import your wallet into Zeus as well. But if you only want to import your wallet into Zeus, you can skip to the Zeus section. 
+LNDhub allows you to easily import a wallet into compatible applications. While you can save your Bitcoin Txoko LNbits wallet to your phone as a progressive web app (PWA), a native app like [Zeus](https://zeusln.app/) or [BlueWallet](https://bluewallet.io/) offers a better user experience and better security. With [Alby](https://getalby.com/), you can also import the wallet into your browser extension for easy Lightning payments on the web and for Nostr zaps. It's possible to import your LNbits wallet into Zeus, BlueWallet, Alby or BTCPay Server with [LNDhub](https://github.com/BlueWallet/LndHub/tree/master). We will cover how to do it with Alby and Zeus in this guide. With the Alby setup, one of the steps will easily allow you to import your wallet into Zeus as well. But if you only want to import your wallet into Zeus, you can skip to the Zeus section. 
 ### Alby
 Alby is a browser extension that brings Lightning and Nostr to your browser. Using the [WebLN](https://www.webln.dev/) protocol, the extension can easily detect invoices on webpages and pay them as well as let you sign into websites with Lightning. You can also set budgets for your favourite Lightning sites. Furthermore, it can act as a Nostr signer using [NIP-07](https://github.com/nostr-protocol/nips/blob/master/07.md), which is much more secure than entering your private key into web clients. 
 #### What do I need? 
-- Web browser that supports Chrome or Firefox extensions. [Kiwi Browser](https://kiwibrowser.com/) supports it on Android. 
-- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. Make sure you save your wallet link so that you can come back to it later!
+- Web browser that supports Chrome or Firefox extensions. 
+- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. 
 - (Optional) A mobile device for setting up Zeus. 
 #### 1. Enable the LNDhub extension on your LNbits wallet
 In your browser, head over to your wallet link. Click on `Extensions` and enable the `LNDhub` extension. After it has been enabled, go to the LNDhub extension page. 
@@ -33,11 +33,11 @@ Zeus is an awesome open-source app that allows you to connect your own node to y
 #### What do I need?
 - Android or iOS phone
 - Another device on which you can access your LNbits wallet (for displaying the QR code to scan)
-- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. Make sure you save your wallet link so that you can come back to it later!
+- Access to your LNbits wallet. If you do not have a LNbits wallet yet, head over to [our wallet page](https://bitcointxoko.com) and create one. 
 #### 1. Download Zeus
 You can download the Zeus app for your operating system [here](https://zeusln.app/).
 #### 2. Enable the LNDhub extension on your LNbits wallet
-In your browser, head over to your wallet link. Click on `Extensions` and enable the `LNDhub` extension. After it has been enabled, go to the LNDhub extension page. 
+In your LNbits wallet page, click on `Extensions` and enable the `LNDhub` extension. After it has been enabled, open the LNDhub extension page. 
 #### 3. Import into Zeus
 Go to `Settings` > `Add a new node` on Zeus.
 
@@ -53,4 +53,4 @@ Once you have scanned the QR code, all the fields should be automatically filled
 
 Now you can `Save Node Config` and control the wallet from your phone!
 #### Bonus
-Zeus also offers cool features like lurker mode and biometric verification. You can also enable price conversions to a fiat currency of your choice. Furthermore you can personalise the display of the app to what you like. These are beyond the scope of this guide, play around in the app and discover all those features for yourself!
+Zeus also offers cool features such as custom themes, price conversions, lurker mode and biometric verification. These are beyond the scope of this guide, play around in the app and discover all those features for yourself!
