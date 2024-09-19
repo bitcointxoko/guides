@@ -83,7 +83,7 @@ cambiando la dirección Lightning.
 
 #### LNDhub
 Puedes importar tu billetera LNbits como un LNDhub en tu teléfono utilizando una aplicación
-como [Zeus](https://zeusln.app/) o [BlueWallet](https://bluewallet.io/), en lugar de visitar la billetera en el navegador cada vez que deseas
+como [Zeus](https://zeusln.app/) o [BlueWallet](https://bluewallet.io/), en lugar de visitar la billetera en el navegador cada vez que desees
 comprobar tu saldo o realizar un pago. Echa un vistazo a nostr:naddr1qvzqqqr4gupzqkvlvlma7a55ccp6d5rrdc27h3ssmdmael286mjaq5uxmqslk04fqqxnzd3exuerqdfkxccnyv3cs0uvul sobre cómo hacer esto.
 
 #### Código QR
