@@ -7,7 +7,7 @@ En esta guía cubriremos cómo importar la billetera a tu navegador y a tu móvi
 
 ### Alby
 
-nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0s8jq7y6 es una extensión de navegador que lleva Lightning y Nostr a tu navegador. Utilizando el
+nostr:nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0s8jq7y6 es una extensión de navegador que lleva Lightning y Nostr a tu navegador. Utilizando el
 protocolo [WebLN](https://www.webln.dev/), esta extensión puede detectar facturas LN en paginas web y pagarlas,
 así como posibilita iniciar sesión en sitios web con Lightning. También puedes fijar
 presupuestos para tus sitios favoritos de Lightning. Por otro lado también puedes utilizarla
@@ -62,7 +62,7 @@ puedes escanear el código QR que te muestra Alby para importar la billetera.
 Voilà! Ahora tienes el poder de Lightning al alcance de la mano ¿Ya te sientes como un dios?
 
 ### Zeus
-nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf es una formidable aplicación de código abierto que permite conectar tu propio nodo
+nostr:nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf es una formidable aplicación de código abierto que permite conectar tu propio nodo
 a tu dispositivo movil. Es compatible con todas las principales implementaciones de
 nodos Lightning, como LND, CLN y Eclair, así como conexiones a través de Tor y
 clearnet. Recientemente también han anunciado su propio LSP (Lightning Service
