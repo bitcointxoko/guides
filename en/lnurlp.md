@@ -33,28 +33,28 @@ The extension `Pay Links` is needed for Lightning Addresses to work.
 Go to `Extensions` in the toolbar and activate `Pay Links`. 
 ### 3. Creating your pay link
 
-Open the `Pay Links` extension and click on `New Pay Link`. 
+- Open the `Pay Links` extension and click on `New Pay Link`. 
 
-Choose the wallet you have created. 
+- Choose the wallet you have created. 
 
-For the `Item Description`, you can enter whatever you want. 
+- For the `Item Description`, you can enter whatever you want. 
 
-Choose a your Lightning Address username. Your Lightning Address will look like `username@bitcointxoko.com`. 
+- Choose a your Lightning Address username. Your Lightning Address will look like `username@bitcointxoko.com`. 
 
-Uncheck `Fixed Amount` and change the `Min` value to 1 and `Max` value to 500000. 
+- Uncheck `Fixed Amount` and change the `Min` value to 1 and `Max` value to 500000. 
 
 ⚠️ You can also change the `Max` value to something higher, but larger payments are more likely to fail due to the limited inbound channel capacity of the [Bitcoin Txoko Lightning node](https://amboss.space/node/03fb64900a7647b4499a88a6c30976333074dad3bb7702d0219bd84dc4ac4a241e). So we recommend keeping it at 500000 sats. 
 
-Now open `Advanced Options` and change the `Comment maximum characters` to 799. This step is not required but allows more functionalities later on. 
+- Now open `Advanced Options` and change the `Comment maximum characters` to 799. This step is not required but allows more functionalities later on. 
 
-Check `Enable nostr zaps` at the bottom, so that you can use your Lightning Address to receive zaps.
+- Check `Enable nostr zaps` at the bottom, so that you can use your Lightning Address to receive zaps.
 
-The other `Advanced options` are optional, you can configure them if you want, or leave them blank. 
+- The other `Advanced options` are optional, you can configure them if you want, or leave them blank. 
 
 ![In the end it should look something like this. ](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlp/lnurlp-config.png)
 In the end it should look something like this. 
 
-When you've checked everything is correct, go ahead and click on `Create Pay Link`. 
+- When you've checked everything is correct, go ahead and click on `Create Pay Link`. 
 ### Testing
 
 You can test if your new Lightning Address works by going to another wallet, going to `Send` and typing in your Lightning Address as the destination, then send yourself a few sats. 
@@ -69,7 +69,7 @@ If not, let us know. We are always here to help.
 #### Nostr zaps
 You can add your Bitcoin Txoko Lightning Address to your nostr profile and use it to receive zaps. Usually this is done by going to `Profile` > `Edit` > `Lightning Address` and changing the Lightning Address. 
 #### LNDhub
-You can import your LNbits wallet as a LNDhub onto your phone using an app like [Zeus](https://zeusln.app/) or [BlueWallet](https://bluewallet.io/), instead of visiting the wallet link every time you want to check your balance or make a payment. Check out nostr:naddr1qvzqqqr4gupzqkvlvlma7a55ccp6d5rrdc27h3ssmdmael286mjaq5uxmqslk04fqqxnzd3exuerqdfkxccnyv3cs0uvul on how to do this. 
+You can import your LNbits wallet as a LNDhub onto your phone using an app like [Zeus](https://zeusln.app/) or [BlueWallet](https://bluewallet.io/), instead of visiting the wallet in your browser every time you want to check your balance or make a payment. Check out nostr:naddr1qvzqqqr4gupzqkvlvlma7a55ccp6d5rrdc27h3ssmdmael286mjaq5uxmqslk04fqqxnzd3exuerqdfkxccnyv3cs0uvul on how to do this. 
 #### QR code
 You can also share or print your LNURLp QR code so people can easily scan it with their phones. Very useful if you're onboarding your favourite local merchant so that they can receive Lightning tips!
 
