@@ -33,7 +33,7 @@ The extension `Pay Links` is needed for Lightning Addresses to work.
 Go to `Extensions` in the toolbar and activate `Pay Links`. 
 ### 3. Creating your pay link
 
-Go to the LNURLp extension and click on `New Pay Link`. 
+Open the `Pay Links` extension and click on `New Pay Link`. 
 
 Choose the wallet you have created. 
 
