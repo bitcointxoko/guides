@@ -37,7 +37,7 @@ desbloqueo y guárdala en un lugar seguro.
 
 En la siguiente pantalla, elige `Conectar` y luego elige `LNDhub`. Vuelve a tu extensión
 LNDhub y copia la URL de conexión. Pégala en el campo `URI de exportación de
-LNDhub`. Pulse continuar. ¡Ahora deberías haber estado conectado a tu billetera de LNbits
+LNDhub`. Pulsa continuar. ¡Ahora deberías haber estado conectado a tu billetera de LNbits
 con LNDhub!
 
 💡 Puedes elegir entre la URL de la factura (Invoice URL) y la URL de administración (Admin URL). Le dan a Alby
