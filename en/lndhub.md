@@ -12,7 +12,7 @@ In your browser, head over to your wallet link. Click on `Extensions` and enable
 #### 2. Install Alby extension
 Head over to [getalby.com](https://getalby.com/) and click on `Add Browser Extension`. Install the extension from your browser's extension store. Set up your unlock password and store it in a safe place. 
 #### 3. Import into Alby
-![alby-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-config.png)
+![alby-config](https://cdn.satellite.earth/2074a44ea548ce28368d0aba2d54eafdc698159c5ee0956afa87fa155e3b511d.webp)
 
 In the next screen, choose `Connect`, then choose `LNDhub`. Go back to your LNDhub extension and copy the connection URL. Paste that into the `LNDhub export URI` field. Press continue. You should now have been connected to your LNbits wallet with LNDhub!
 
@@ -20,7 +20,7 @@ In the next screen, choose `Connect`, then choose `LNDhub`. Go back to your LNDh
 - Invoice URL allows you to generate invoices and receive payments. 
 - Admin URL also allows you to send payments. 
 #### 4. (Optional) Set up Zeus with Alby
-![alby-export](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-export.png)
+![alby-export](https://cdn.satellite.earth/8807b296bb8bd6086a795616cc49068a17d93df450d0a65ce3818e5539eb6a09.webp)
 
 Now that you have connected your LNbits with Alby, you can also easily import it into Zeus with Alby. Simply open the extension, click on your wallet name, and go to Account Settings. Under ``Account`` you can find the option to `Connect your mobile wallet`. When you press `Connect`, you will be shown a QR code to scan from Zeus. 
 
@@ -51,7 +51,7 @@ Scan the desired wallet to import it.
 
 Once you have scanned the QR code, all the fields should be automatically filled in Zeus. You can add a nickname for your wallet as well. 
 
-![zeus-config](https://github.com/bitcointxoko/guides/blob/main/images/lndhub/zeus-config.png)
+![zeus-config](https://cdn.satellite.earth/3be62f55d32460b7aa33d58fd9c25f3260e379ddde60fa1fe2c99016915da8b3.webp)
 
 Now you can `Save Node Config` and control the wallet from your phone!
 #### Bonus
