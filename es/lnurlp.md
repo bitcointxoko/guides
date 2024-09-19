@@ -47,7 +47,7 @@ Abre `Extensiones` en la barra de herramientas y activa `Pay Links`.
 
 - Elige un nombre de usuario de tu dirección Lightning. Tu dirección Lightning se verá como `username@bitcointxoko.com`. 
 
-- Desmarque `Fixedf amount` y cambia el valor mínimo a 1 y el valor máximo a 500000.
+- Desmarque `Fixed amount` y cambia el valor mínimo a 1 y el valor máximo a 500000.
 
 ⚠️ También puedes cambiar el valor máximo a algo más alto, pero es más probable que los pagos más grandes fallen debido a la limitada capacidad de entrada del [nodo Lightning de Bitcoin Txoko](https://amboss.space/node/03fb64900a7647b4499a88a6c30976333074dad3bb7702d0219bd84dc4ac4a241e). Así que recomendamos mantenerlo en 500000 sats.
 
