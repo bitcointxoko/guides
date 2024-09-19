@@ -30,7 +30,7 @@ desde el store de extensiones del navegador. Configura tu contraseña de
 desbloqueo y guárdala en un lugar seguro.
 
 #### 3. Importar a Alby
-![alby-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-config.png)
+![alby-config](https://cdn.satellite.earth/2074a44ea548ce28368d0aba2d54eafdc698159c5ee0956afa87fa155e3b511d.webp)
 (Esta es una billetera de prueba. No hay fondos en ella. ¡No muestres a nadie tu URI de exportación real!)
 
 En la siguiente pantalla, elige `Conectar` y luego elige `LNDhub`. Vuelve a tu extensión
@@ -45,7 +45,7 @@ diferentes permisos para interactuar con tu cartera de LNbits.
 - La URL de administración también te permite enviar pagos
 
 #### 4. Configurar Zeus con Alby (opcional)
-![alby-export](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/alby-export.png)
+![alby-export](https://cdn.satellite.earth/8807b296bb8bd6086a795616cc49068a17d93df450d0a65ce3818e5539eb6a09.webp)
 
 Ahora que ya has conectado tu LNbits con Alby, también puedes importarlo de una
 manera sencilla a Zeus con Alby. Abre la extensión, haz cilc en el
@@ -92,7 +92,7 @@ Escanea la cartera que quieras instalar.
 Una vez que hayas escaneado el código QR, todos los campos en Zeus deberían
 rellenarse automáticamente. También puedes añadir un apodo para tu billetera.
 
-![zeus-config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lndhub/zeus-config.png)
+![zeus-config](https://cdn.satellite.earth/3be62f55d32460b7aa33d58fd9c25f3260e379ddde60fa1fe2c99016915da8b3.webp)
 
 ¡Ahora puedes guardar la configuración del nodo y controlar la billetera desde tu teléfono!
 
