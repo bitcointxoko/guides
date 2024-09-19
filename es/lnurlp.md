@@ -7,7 +7,7 @@ quiere hacer un pago.
 ¿Suena bien no?
 
 ### ¿Y cómo funciona?
-Funciona utilizando el [protocolo de pago LNURL](https://github.com/lnurl/luds/blob/legacy/lnurl-pay.md), una capa en la parte superior de Lightning Network.
+Funciona utilizando el [protocolo de pago LNURL](https://github.com/lnurl/luds/blob/legacy/lnurl-pay.md).
 
 ![Aquí se muestra un sencillo esquema de lo que ocurre en segundo plano.](https://blob.satellite.earth/908a8572fe3ec8c5b17bcbae1065b69af15b39958401c87128723f3250122cec)Aquí se muestra un sencillo esquema de lo que ocurre en segundo plano.
 
