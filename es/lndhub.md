@@ -19,7 +19,7 @@ privada en clientes web.
 #### ¿Qué necesito?
 - Un navegador web que soporte extensiones Chrome o Firefox
 - Acceso a tu billetera LNbits. Si todavía no tienes una billetera LNbits, dirígete a [nuestra página de billeteras](https://bitcointxoko.com) y crea una
-- Un dispositivo móvil para configurar Zeus
+- (Opcional) Un dispositivo móvil para configurar Zeus
 
 #### 1. Habilita la extensión LNDhub en tu LNbits wallet
 Dirígete a tu billetera LNbits. Haz clic en `Extensiones` y habilita la
