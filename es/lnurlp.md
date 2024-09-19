@@ -58,7 +58,7 @@ Abre `Extensiones` en la barra de herramientas y activa `Pay Links`.
 - Las demás opciones avanzadas son opcionales, puedes configurarlas si quieres o dejarlas en
 blanco.
 
-![Al final debería verse algo así.](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlp/lnurlp-config.png)
+![Al final debería verse algo así.](https://cdn.satellite.earth/4b62fbb4084d198ebd1dfb985db448577bf3bb6b138dfbbd456bc6228751729e.webp)
 
 Al final debería verse algo así.
 
