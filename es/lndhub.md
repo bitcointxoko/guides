@@ -27,7 +27,7 @@ extensión `LNDhub`. Una vez se haya habilitado, dirígete a la página de exten
 LNDhub.
 
 #### 2. Instala la extensión Alby
-Dirígete a [getalby.com](https://getalby.com/) y haz clic en `Añadir extensión del navegador`. Instala la extensión
+Dirígete a [getalby.com](https://getalby.com/) y instala la extensión
 desde el store de extensiones del navegador. Configura tu contraseña de
 desbloqueo y guárdala en un lugar seguro.
 
