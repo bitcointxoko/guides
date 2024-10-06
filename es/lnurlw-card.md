@@ -16,7 +16,7 @@ Abre tu billetera LNbits. Activa la extensión LNURLw desde la barra de herramie
 
 - Selecciona la billetera desde la cual se retirarán los sats. Probablemente quieras separar esto de tu billetera principal de LNbits. Para hacerlo, puedes crear primero una nueva billetera LNbits yendo a la barra de herramientas y seleccionando `+ Agregar nueva billetera`, luego depositando algunos sats en la billetera recién creada.
 
-![configure](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlw-card/configure.png)
+![configure](https://cdn.satellite.earth/9eefb0bcc03e218aac55a5c3bfa06f0cdd59d3b36959c58e3f2f88941cca0d01.webp)
 
 - Asigna un título al enlace de retiro.
 
@@ -33,7 +33,7 @@ Cuando estés satisfecho con la configuración, procede a crear el enlace de ret
 ## 3. Escribe el enlace en la tarjeta NFC
 En tu enlace de retiro recién creado, haz clic en `view LNURL` ("ver LNURL"). Haz clic en el botón `Write to NFC` ("Escribir en NFC") y acerca tu tarjeta NFC a tu teléfono para que se pueda escribir en ella.
 
-![write](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/lnurlw-card/write.png)
+![write](https://cdn.satellite.earth/7d290d0c076c724af88089f3ad2bdc7c22cac5bc7bb521e5f28c5646a4fe350d.webp)
 
 ✔️ HECHO
 
