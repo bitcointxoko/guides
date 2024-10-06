@@ -9,7 +9,7 @@
 💡 Las tarjetas NTAG2* te permiten escribir **un** enlace en ellas. Por ejemplo, pueden funcionar como una tarjeta de presentación que contiene la URL del sitio web de la empresa. Las tarjetas NTAG424 no solo tienen más memoria, sino que también cuentan con un parámetro SUN que permite la autenticación del servidor web, lo cual añade más seguridad a tus pagos. Este último tipo de tarjetas también se pueden convertir en [BoltCards](https://boltcard.org/).
 
 ## 1. Activa la extensión
-Abre tu billetera LNbits. Activa la extensión LNURLw desde la barra de herramientas y ve a la extensión.
+Abre tu billetera LNbits. Activa la extensión LNURLw desde la barra de herramientas y entra en la extensión.
 
 ## 2. Crea un enlace de retiro
 - En la página de la extensión LNURLw, elige `Advanced Withdraw Link(s)` ("Enlace(s) de retiro avanzado").
