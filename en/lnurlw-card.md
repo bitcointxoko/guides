@@ -5,7 +5,7 @@ Have you ever wanted to gift someone sats in physical form? With a LNbits wallet
 - Android phone
 - NFC card with at least NTAG2* capabilities, for example NTAG216. See nostr:naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5 for where to purchase cards. 
 
-💡 NTAG2* cards allow you to write **one** link onto them. They can for example act as a business card containing the URL to the company's website. NTAG424 cards not only have bigger memory but also something called a SUN parameter which allows web server authentication, which adds more security to your payments. The latter type of cards can also be made into [BoltCards]. 
+💡 NTAG2* cards allow you to write **one** link onto them. They can for example act as a business card containing the URL to the company's website. NTAG424 cards not only have bigger memory but also something called a SUN parameter which allows web server authentication, which adds more security to your payments. The latter type of cards can also be made into [BoltCards](https://boltcard.org/). 
 
 ### 1. Activate extension
 Open your LNbits wallet. Activate the Withdraw Links extension from the toolbar and go to the extension. 
@@ -14,6 +14,8 @@ Open your LNbits wallet. Activate the Withdraw Links extension from the toolbar 
 On the LNURLw extension page, choose `Advanced Withdraw Link(s).`
 
 Choose the wallet from which the sats will be withdrawn. You probably want to separate this from your main LNbits wallet. To do this you can first create a new LNbits wallet from going to the toolbar and choosing `+ Add a new wallet`, then depositing some sats in the newly created wallet. 
+
+![configure](https://cdn.satellite.earth/9eefb0bcc03e218aac55a5c3bfa06f0cdd59d3b36959c58e3f2f88941cca0d01.webp)
 
 Give the withdraw link a title. 
 
@@ -28,7 +30,9 @@ Do not click the `assmilking` box.
 When you are happy with the configuration, proceed to `Create withdraw link`.
 
 ### 3. Write link to NFC card
-On your newly created withdraw link, click on `view LNURL`. Click on the `Write to NFC` button and hold your NFC card up to your phone to be written. 
+On your newly created withdraw link, click on `view LNURL`. Click on the `Write to NFC` button and hold your NFC card up to your phone to be written.
+
+![write](https://cdn.satellite.earth/7d290d0c076c724af88089f3ad2bdc7c22cac5bc7bb521e5f28c5646a4fe350d.webp)
 
 ✔️ **DONE**
 
