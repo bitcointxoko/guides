@@ -38,4 +38,4 @@ Zure erretiratzeko esteka berrian, klikatu `View LNURL` estekan. Ondoren, sakatu
 
 💡 Esan txartelaren jasotzaileari satoshi saldoari buruz, denbora ez dezan galdu azkeneko satoshia lortzen saiatzeko.
 
-💡 Jasotzaileak txartelaren satoshiak atera ondoren, bere zorroan berridatzi dezake eta berrerabili. Gainera, eman diozun txartela NTAG424 bada, aurreko gidako bezala Lightning "zor txartela" bihur dezake. Baina txartela NTAG2* bakarrik bada, beste opari txartel bat bihur dezake soilik.
+💡 Jasotzaileak txartelaren satoshiak atera ondoren, bere zorroan berridatzi dezake eta berrerabili. Gainera, eman diozun txartela NTAG424 bada, aurreko gidako (nostr:naddr1qqxnzd3e8qcr2wfn8qcrgwf4qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65whwqrr5) bezala Lightning "zor txartela" bihur dezake. Baina txartela NTAG2* bakarrik bada, beste opari txartel bat bihur dezake soilik.
