@@ -8,10 +8,10 @@ Have you ever wanted to gift someone sats in physical form? With a LNbits wallet
 💡 NTAG2* cards allow you to write **one** link onto them. They can for example act as a business card containing the URL to the company's website. NTAG424 cards not only have bigger memory but also something called a SUN parameter which allows web server authentication, which adds more security to your payments. The latter type of cards can also be made into [BoltCards](https://boltcard.org/). 
 
 ### 1. Activate extension
-Open your LNbits wallet. Activate the Withdraw Links extension from the toolbar and go to the extension. 
+Open your LNbits wallet. Activate the `Withdraw Links` extension from the toolbar and go to the extension. 
 
 ### 2. Create withdraw link
-On the LNURLw extension page, choose `Advanced Withdraw Link(s).`
+On the `Withdraw Links` extension page, choose `Advanced Withdraw Link(s).`
 
 Choose the wallet from which the sats will be withdrawn. You probably want to separate this from your main LNbits wallet. To do this you can first create a new LNbits wallet from going to the toolbar and choosing `+ Add a new wallet`, then depositing some sats in the newly created wallet. 
 
