@@ -7,11 +7,11 @@ Inoiz pentsatu al duzu norbaiti satoshiak modu originalean oparitzea, Bitcoin mu
 
 💡 NTAG2* txartelek esteka **bat** idazteko aukera ematen dute. Adibidez, enpresaren webgunerako URLa duen bisita-txartel gisa joka dezakete. NTAG424 txartelek ez dute memoria handiagoa bakarrik, baizik eta SUN parametro deitzen den zerbait ere badute, zerbitzariaren autentifikazioa ahalbidetzen duena, eta horrek segurtasun gehiago ematen die zure ordainketei. Azkenean txartel mota hau [BoltCard](https://boltcard.org/) bat bihur daiteke.
 
-### 1. Errepozitorioa Aktibatu
-Ireki zure LNbits zorroa. Tresna-barran, aktibatu `Withdraw Links` luzapena eta ondoren joan luzapenera.
+### 1. Hedapena aktibatu
+Ireki zure LNbits zorroa. Tresna-barran, aktibatu `Withdraw Links` hedapena eta ondoren joan hedapenera.
 
 ### 2. Erretiratzeko esteka sortu
-`Withdraw Links` luzapen orrian, aukeratu `Advanced Withdraw Link(s)` aukera. 
+`Withdraw Links` hedapen orrian, aukeratu `Advanced Withdraw Link(s)` aukera. 
 
 Ondoren, aukeratu satoshiak ateratzeko erabiliko duzun zorroa. Ziurrenik, hori zure LNbits zorro nagusitik bereizi nahi izango duzu. Horretarako, LNbits zorro berri bat sor dezakezu tresna-barratik, `+ Add a new wallet` aukera hautatuz. Behin zorro berria sortuta, sartu satoshi batzuk bertan.
 
