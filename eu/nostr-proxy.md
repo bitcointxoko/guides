@@ -18,9 +18,7 @@ Proxy-ak bezeroaren izenean erreleekin konektatzen denez, erreleek proxy-aren IP
 
 ### Erabiltzeko Modua
 
-A nostr proxy can easily be self hosted. Check out this [repo](https://github.com/Yonle/bostr/) by nostr:npub1x3azxuysp5vmfer4vgs4jn5tmfcx4ew8sh0qnev7gczljxsr7jwqa3g4el for self-hosting instructions. 
-
-Nostr proxy bat erraz auto-ostata daiteke. Auto-ostatatzeko jarraibideak lortzeko, begiratu nostr:npub1x3azxuysp5vmfer4vgs4jn5tmfcx4ew8sh0qnev7gczljxsr7jwqa3g4el erabiltzailearen biltegi hau.
+Nostr proxy bat erraz auto-ostata daiteke. Auto-ostatatzeko jarraibideak lortzeko, begiratu nostr:npub1x3azxuysp5vmfer4vgs4jn5tmfcx4ew8sh0qnev7gczljxsr7jwqa3g4el erabiltzailearen [biltegi](https://github.com/Yonle/bostr/) hau.
 
 Auto-ostatzeko baliabiderik ez dutenentzat, [Bitcoin Txoko-k komunitate-instantzia](https://bostr.bitcointxoko.com) bat ostalaratzen du.
 
