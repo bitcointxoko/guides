@@ -29,7 +29,7 @@ If you are unfamiliar with it, noStrudel is a Nostr web client for power users w
 5. Enter the *admin key* you have noted down earlier and `https://bitcointxoko.com` as the LNbits URL. Connect the wallet. 
 6. You should now see your wallet balance. You are now ready to zap!
 
-![nostrudel]
+![nostrudel](https://cdn.satellite.earth/d98b5f351536f082e593ac1c059bf50d67aab9c77a99cd7fefee0c53b9139822.webp)
 
 ## Conclusion
 
