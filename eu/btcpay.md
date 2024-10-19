@@ -62,9 +62,7 @@ Demostrazio erraz baterako, PoS estilo gisa teklatuaren eredua erabiliko dugu.
 
 Ordainketak lehenago konfiguratutako LNDhub zorroan jasoko dira. Jolas ezazu fakturak sortzen eta deskontu eta tip (aholkularitza) aukerak aktibatuz. Gainera, telefono bat baduzu (adibidez, iPhone ez den bat) NFC teknologia onartzen duena, bezeroek NFC txartelak erabiliz ere ordain dezakete, hala nola BoltCard erabiliz (ikusi nostr:naddr1qqxnzd3e8qcr2wfn8qcrgwf4qgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28qjzxr4). Ez al da zoragarria?
 
-💡 PoS estilo honen erraztasuna maximizatzeko, Keypad PoS zure telefonoan Progressive Web App (PWA) gisa gorde dezakezu sarbide azkarrerako. Mugikor gehienetako nabigatzaileetan aukera hau `Install App` edo `Add to Home Screen` izenarekin agertzen da.
-
-You can save the Keypad PoS as a Progressive Web App (PWA) on your phone for easy access. On most mobile browsers this option is called `Install App` or `Add to Home Screen`. 
+💡 PoS estilo honen erraztasuna maximizatzeko, Keypad PoS zure telefonoan Progressive Web App (PWA) gisa gorde dezakezu sarbide azkarrerako. Mugikor gehienetako nabigatzaileetan aukera hau `Install App` edo `Gehitu orri nagusian` izenarekin agertzen da.
 
 Horrela, zure negozioan Bitcoin ordainketak erraz onar ditzakezu, eta erabiltzaileek ere modu intuitibo batean ordaindu ahal izango dute.
 
