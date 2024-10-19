@@ -20,7 +20,7 @@ Ordainketak onartzen hasteko, lehenik eta behin zure denda zorro batera lotu beh
 
 Lightning zorro bat konektatzeko modurik errazena LNDhub erabiltzea da, zure Lightning nodo propioa exekutatu beharrik ez baituzu izango. LNDhub zorro bat ez baduzu oraindik, ez kezkatu; Bitcoin Txoko-k doako LNDhub zorroak eskaintzen ditu, eta bost minutu baino gutxiago behar dira konfiguratzeko. Begiratu nostr:naddr1qqxnzd3exuerqdfkxccnyv3cqgs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2grqsqqqa28nkyu7t zure LNDhub zorroa nola lortu jakiteko, eta prest zaudenean itzuli konfigurazioa jarraitzeko.
 
-![connect](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/connect.png)
+![connect](https://cdn.satellite.earth/038642b9f6e77623b7affb20adfce5af46a64d9cecb53c1cb651043a88a72597.webp)
 
 Zure LNDhub zorroa prest dagoenean, jarraitu urrats hauek BTCPay kontuan konfiguratzen:
 1. Joan zure BTCPay kontura eta `Wallets` aukera bilatu alboko barran, ondoren `Lightning` aukeratu.
@@ -34,7 +34,7 @@ Zure LNDhub zorroa prest dagoenean, jarraitu urrats hauek BTCPay kontuan konfigu
 
 Jarraitu urrats hauek zure zorroa arrakastaz konfiguratuta izateko eta Lightning bidezko ordainketak onartzeko.
 
-![config](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/config.png)
+![config](https://cdn.satellite.earth/d0f30a95573894f674dd7e21646e583bcc69f1a5179556b8cc7853de1cf1bb02.webp)
 
 💡 Zure Lightning nodo propioa erabiltzen ari bazara, konfigurazio prozesua antzekoa da. Ziurtatu zure nodo inplementaziorako konexio kate egokia ematen duzula.
 
@@ -52,7 +52,7 @@ Jarraian, zure PoS aplikazioarekin egin ditzakezun gauza erraz batzuk azalduko d
 
 ### Teklatua (Keypad)
 
-![keypad](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/keypad.png)
+![keypad](https://cdn.satellite.earth/019bd809f089c02d44a10d1824a9226b89d0199f4eeef06d09f859fce1b97310.webp)
 
 Demostrazio erraz baterako, PoS estilo gisa teklatuaren eredua erabiliko dugu.
 
@@ -68,7 +68,7 @@ Horrela, zure negozioan Bitcoin ordainketak erraz onar ditzakezu, eta erabiltzai
 
 ### Product list (with cart)
 
-![product-list-with-cart](https://raw.githubusercontent.com/bitcointxoko/guides/main/images/btcpay/product-list-with-cart.png)
+![product-list-with-cart](https://cdn.satellite.earth/3f7572de5585455096375bf05ead665f2172f6c0dd3b2caa8f67e79f30b13b4e.webp)
 
 Posible da saltoki puntu bat sortzea produktu zehatzekin, bakoitza bere prezioarekin. Ezaugarri hau erabil dezakezu kutxa sinple bat, bezeroen auto-ordainketa sistema edo web denda bat konfiguratzeko.
 
