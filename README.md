@@ -40,6 +40,6 @@ Una vez que hayas confirmado los cambios, GitHub te pedirá que abras una pull r
 
 ![preview-pull-request](https://raw.githubusercontent.com/bitcointxoko/guides/refs/heads/main/images/README/preview-pull-request.png)
 
-Abre una. Si no hay conflictos, el mantenedor lo revisará y fusionará. 
+Abre una. Si no hay conflictos, el mantenedor la revisará y fusionará. 
 
 ![pull-request](https://raw.githubusercontent.com/bitcointxoko/guides/refs/heads/main/images/README/pull-request.png)
