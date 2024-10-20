@@ -1,16 +1,19 @@
-## How to contribute
+## Cómo contribuir
 
-### 1. Fork this repository
+### 1. Fork este repositorio
 
-Click on the fork button in the top toolbar. You will be guided through creating a fork of this repository. 
+Haz clic en el botón de bifurcación de la barra de herramientas superior. Se te guiará a través de la creación de una bifurcación de este repositorio. 
 
-### 2. Make your changes
+### 2. Haz tus cambios
 
-To add a new file, go to the side bar and click on the `+` button. 
+Para añadir un nuevo archivo, en la barra lateral y haz clic en el botón `+`. 
 
-To edit an existing file, go to that file and click the Edit button to open the editor. 
+Para editar un archivo existente, navega a ese archivo y haz clic en el botón Editar para abrir el editor. 
 
-When you are done with your changes, commit them. Write a short description about what you have changed. 
+Cuando hayas terminado con tus cambios, confírmalos. Escribe una breve descripción de lo que has cambiado.  
 
-### 3. Submit a pull request
+### 3. Enviar una pull request
 
+Una vez que hayas confirmado los cambios, GitHub te pedirá que abras una pull request. 
+
+Abre una. Si no hay conflictos, el mantenedor lo revisará y fusionará. 
