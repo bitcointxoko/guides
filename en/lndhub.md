@@ -31,7 +31,7 @@ Once Zeus has been downloaded, go to `Settings` > `Add a new node`. Here you can
 Voilà! Now you have the power of Lightning at your fingertips. Do you feel like a god yet?
 
 ### Zeus
-nostr:nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf is an awesome open-source app that allows you to connect your own node to your mobile device. It supports all the major Lightning node implementations, such as LND, CLN and Eclair, as well as connections over both Tor and clearnet. Recently they have also announced their own LSP (Lightning Service Provider), you can join the waitlist [here](https://olympusln.com/). 
+nostr:nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9g84ctjf is an awesome open-source app that allows you to connect your own node to your mobile device. It supports all the major Lightning node implementations, such as LND, CLN and Eclair, as well as connections over both Tor and clearnet. Recently they have also announced their own LSP (Lightning Service Provider).
 #### What do I need?
 - Android or iOS phone
 - Another device on which you can access your LNbits wallet (for displaying the QR code to scan)
