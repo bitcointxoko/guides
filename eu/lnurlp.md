@@ -1,6 +1,6 @@
 # Zer da lightning address bat?
 
-Lightning address bat irakurgarria den helbide elektroniko baten antza duen helbidea da, adibidez erabiltzailea@domeinua.com, baina bitcoinetan ordainketak berehala eta merke jasotzeko aukera ematen du. Ez duzu zure gailuan nodo bat linean izatea behar, eta ez duzu eskuz faktura bat sortu behar norbaitek ordainketa egin nahi dizunean.  
+Lightning address bat irakurgarria den helbide elektroniko baten antza duen helbidea da, adibidez username@domein.com, baina bitcoinetan ordainketak berehala eta merke jasotzeko aukera ematen du. Ez duzu zure gailuan nodo bat linean izatea behar, eta ez duzu eskuz faktura bat sortu behar norbaitek ordainketa egin nahi dizunean.  
 Oso interesgarria, ezta?
 
 ## Nola funtzionatzen du, orduan?
