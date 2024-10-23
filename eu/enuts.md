@@ -77,4 +77,18 @@ eNuts aplikazioak Cashu token bat sortzen du zure funts guztiekin, eta token hor
 - **Segurtasun-kopia bat sortzeko**, joan Aukerak > **Segurtasuna > Sortu babeskopia token**. Kopiatu token-a eta gorde toki seguru batean.
 
 Bestela, mint bakoitza banaka babestu dezakezu:
-- Horretarako, joan Aukerak > **Mint kudeaketa** atalera eta aukeratu babestu nahi duzun mint-a. Ondoren, sakatu **Funtseak babestu**
+- Horretarako, joan Aukerak > **Mint kudeaketa** atalera eta aukeratu babestu nahi duzun mint-a. Ondoren, sakatu **Funtseak babestu**, kopiatu token-a eta gorde toki seguru batean.
+
+### Berreskuratzea
+Berreskuratzeko, kopiatu babeskopia token-a eta ireki eNuts aplikazioa. Aplikazioak automatikoki irakurriko du zure arbelean dagoena eta galdetuko dizu token-a berreskuratu nahi duzun.
+
+### Nostr
+eNuts aplikazioak Nostr integrazioa eskaintzen du, horrela zure kontaktu zerrendara ecash bidali ahal izateko. Funtzio hau erabiltzeko, honako pauso hauek jarraitu behar dituzu:
+
+1. Joan **Kontaktuak** atalera eta itsatsi zure Nostr gako publikoa.
+2. eNuts-ek zure kontaktu zerrenda eskuratuko du relays-etatik. Tamalez, bilaketa funtzioa oraindik ez dago eskuragarri, eta horrek kontaktu zuzena aurkitzea zaildu dezake, kontaktu asko izanez gero.
+
+Hartzaileak Nostr motako 4 mezu zuzena jasoko du, Cashu token-arekin. Hartzaileak mezu hau bere zorroan berreskuratu eta token-a erabili ahal izango du.
+
+## Ondorioa
+Gida hau lagungarria iruditu zaizu? Saiatu Cashu token batzuk bidaltzen Nostr bidez!
