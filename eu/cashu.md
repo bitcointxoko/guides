@@ -1,6 +1,6 @@
 # Zer da Cashu?
 
-Cashu Bitcoinentzako Ecash protokolo irekia da, transakzio azkarrak eta doakoak eskaintzen dituena. Protokolo honen ezaugarri nabarmenetako bat pribatutasun ia perfektua eskaintzea da. Nostr [nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg](nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg) erabiltzaileak sortu zuen.
+Cashu Bitcoinentzako Ecash protokolo irekia da, transakzio azkarrak eta doakoak eskaintzen dituena. Protokolo honen ezaugarri nabarmenetako bat pribatutasun ia perfektua eskaintzea da. Nostr nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg erabiltzaileak sortu zuen.
 
 Hona hemen Cashu eta on-chain Bitcoin alderatzen dituen taula, Bangkok 2023ko Bitcoin Konferentzian nostr [nostr:npub1cj6ndx5akfazux7f0vjl4fyx9k0ulf682p437fe03a9ndwqjm0tqj886t6](nostr:npub1cj6ndx5akfazux7f0vjl4fyx9k0ulf682p437fe03a9ndwqjm0tqj886t6)-k aurkeztutako Nuts and Bolts hitzaldian oinarrituta:
 
