@@ -65,7 +65,7 @@ Zure Bitcoin Txoko Lightning Address nostr profilean gehitu dezakezu eta horrela
 
 ### LNDhub
 Zure LNbits zorroa telefonoan inporta dezakezu LNDhub bezala, Zeus edo BlueWallet bezalako aplikazioak erabiliz. Horrela, ez duzu nabigatzailean zorroa ireki beharko aldian-aldian saldoa egiaztatu edo ordainketak egiteko.  
-Nola egin jakiteko, ikus ezazu nostr helbidea: `naddr1qvzqqqr4gupzqkvlvlma7a55ccp6d5rrdc27h3ssmdmael286mjaq5uxmqslk04fqqxnzd3exuerqdfkxccnyv3cs0uvul`.
+Nola egin jakiteko, ikus ezazu nostr:naddr1qqxnzdej8y6ryvejxc6nvwpnqyg8wumn8ghj7mn0wd68ytnhd9hx2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp65w4hhl8s.
 
 ### QR kodea
 Zure LNURLp QR kodea parteka edo inprima dezakezu, jendeak mugikorrarekin eskaneatu dezan. Oso erabilgarria da zure denda lokaleko jabeak Lightning ordainketak jasotzeko sistema ezartzea nahi baduzu!
